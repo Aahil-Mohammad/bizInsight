@@ -1,0 +1,701 @@
+Order ID,Order Date,Customer Name,Customer ID,Contact Number,Product Name,Product ID,Quantity,Total Sale,Unit Price,Payment Method,Server,Location
+700,2021-04-02,Stuart,9132,692-542-7108,Regular Combo,4,3,12,4,Cash,Dawood,Scarborough
+699,2021-04-06,Susan,5546,918.161.0205,Regular Fries,6,3,7.47,2.49,Credit Card,Dawood,Markham
+698,2021-04-08,Ashley,2543,706.145.4144,Onion Rings,12,1,3.99,3.99,Credit Card,Dawood,Scarborough
+697,2021-04-11,Brian,3604,155 302 7519,Garden Salad,14,5,24.95,4.99,Cash,Dawood,Scarborough
+696,2021-04-11,James,3216,+1 (823) 833-9831,Onion Rings,12,5,19.95,3.99,Cash,Eva,Markham
+695,2021-04-14,Benjamin,3417,788-790-0670,Regular Fries,6,5,12.45,2.49,Cash,Charlie,Scarborough
+694,2021-04-15,Linda,2829,151-700-4822,Regular Combo,4,4,16,4,Credit Card,Charlie,Toronto
+693,2021-04-17,Laura,5997,989 969 5254,Chicken Burger,2,5,32.45,6.49,Debit Card,Charlie,Markham
+692,2021-04-20,Amber,6705,676-279-0277,Double Patty Burger,17,4,31.96,7.99,Debit Card,Altaf,Scarborough
+691,2021-04-24,Yesenia,8931,158-349-7676 x008,Chicken Tenders (4 pc),13,4,23.96,5.99,Debit Card,Eva,Scarborough
+690,2021-04-24,Bobby,4045,388-733-3490,Cheese Fries,7,3,10.47,3.49,Credit Card,Charlie,Markham
+689,2021-04-27,Robert,1754,315-199-8309 x584,Chili Cheese Fries,8,5,22.45,4.49,Credit Card,Bob,Mississauga
+688,2021-04-28,Samantha,1377,(286) 549-3796,Cheese Fries,7,5,17.45,3.49,Cash,Altaf,Mississauga
+687,2021-04-29,Tyler,3647,(720) 713-7290 x632,Chicken Tenders (4 pc),13,3,17.97,5.99,Credit Card,Dawood,Toronto
+686,2021-05-01,Mark,4959,1 (185) 187-0712,Large Combo,5,3,15,5,Debit Card,Humza,Markham
+685,2021-05-01,Courtney,1519,+1 (488) 785-9361,Choco Cookie,16,2,2.98,1.49,Credit Card,Grace,Toronto
+684,2021-05-01,Joshua,5936,312 699 0621,Soda (Large),10,1,1.99,1.99,Cash,Eva,Scarborough
+683,2021-05-01,Brenda,9819,974-373-6685 x026,Chili Cheese Fries,8,5,22.45,4.49,Credit Card,Grace,Toronto
+682,2021-05-02,Jason,3332,160-012-3671,Regular Fries,6,5,12.45,2.49,Cash,Humza,Markham
+681,2021-05-02,Earl,7626,319-351-8252 x029,Classic Burger,1,2,11.98,5.99,Cash,Charlie,Mississauga
+680,2021-05-03,Ricky,4544,(405) 212-7114,Ice Cream,15,5,19.95,3.99,Cash,Frank,Markham
+679,2021-05-05,Mary,1953,+1 (579) 223-0567,Classic Burger,1,5,29.95,5.99,Cash,Bob,Toronto
+678,2021-05-06,Tracy,2787,981-595-7789 x795,Choco Cookie,16,5,7.45,1.49,Cash,Bob,Toronto
+677,2021-05-12,Jean,3120,845-862-3645,Garden Salad,14,3,14.97,4.99,Cash,Altaf,Markham
+676,2021-05-13,Alyssa,2293,(870) 296-9926 x612,Double Patty Burger,17,1,7.99,7.99,Credit Card,Bob,Mississauga
+675,2021-05-14,Jose,1747,(518) 294-1297 x109,Ice Cream,15,3,11.97,3.99,Credit Card,Frank,Scarborough
+674,2021-05-14,Nicholas,9552,411 568 6749,Choco Cookie,16,2,2.98,1.49,Debit Card,Eva,Markham
+673,2021-05-16,Jason,3332,(956) 424-5191 x216,Small Combo,3,1,3,3,Credit Card,Bob,Mississauga
+672,2021-05-16,Joseph,3078,242-298-9099,Cheese Fries,7,5,17.45,3.49,Debit Card,Grace,Mississauga
+671,2021-05-17,Alexander,4783,1-587-063-8064,Garden Salad,14,4,19.96,4.99,Credit Card,Bob,Scarborough
+670,2021-05-18,Ernest,1460,(502) 342-0595,Chicken Burger,2,3,19.47,6.49,Credit Card,Bob,Scarborough
+669,2021-05-19,Michelle,5057,153-529-5739 x829,Small Combo,3,2,6,3,Debit Card,Frank,Mississauga
+668,2021-05-19,James,3216,+1 (629) 018-2666,Chili Cheese Fries,8,5,22.45,4.49,Debit Card,Grace,Markham
+667,2021-05-22,Michaela,8690,1-690-482-7748,Soda (Large),10,5,9.95,1.99,Cash,Bob,Toronto
+666,2021-05-22,Ashley,2543,811-992-0650 x015,Chicken Burger,2,3,19.47,6.49,Debit Card,Humza,Mississauga
+665,2021-05-22,Christina,7616,(873) 076-1963,Onion Rings,12,3,11.97,3.99,Credit Card,Frank,Toronto
+664,2021-05-23,Jeremy,2980,561-710-5607,Chicken Burger,2,2,12.98,6.49,Debit Card,Grace,Scarborough
+663,2021-05-23,Sylvia,9661,+1 (630) 089-9715,Garden Salad,14,5,24.95,4.99,Cash,Grace,Mississauga
+662,2021-05-23,Rhonda,5475,1-525-033-6600,Onion Rings,12,3,11.97,3.99,Debit Card,Charlie,Mississauga
+661,2021-05-23,Desiree,4901,+1 (386) 047-5273,Small Combo,3,5,15,3,Cash,Dawood,Mississauga
+660,2021-05-25,Stephanie,1152,229.149.2218,Choco Cookie,16,5,7.45,1.49,Debit Card,Altaf,Scarborough
+659,2021-05-30,Dawn,4904,981.997.2329,Regular Combo,4,2,8,4,Credit Card,Humza,Mississauga
+658,2021-06-01,Steven,5745,(889) 638-1715,Classic Burger,1,2,11.98,5.99,Cash,Eva,Scarborough
+657,2021-06-01,Jennifer,3902,951.607.7418,Soda (Regular),9,4,5.96,1.49,Credit Card,Dawood,Scarborough
+656,2021-06-01,Sonya,5062,607.962.9983,Ice Cream,15,1,3.99,3.99,Cash,Bob,Scarborough
+655,2021-06-02,Kelly,9701,(909) 886-6812,Bottled Water,11,5,5,1,Debit Card,Bob,Scarborough
+654,2021-06-02,Michael,8283,477.880.2630,Chicken Burger,2,5,32.45,6.49,Credit Card,Grace,Mississauga
+653,2021-06-06,Elizabeth,3388,(124) 255-7078 x323,Chili Cheese Fries,8,1,4.49,4.49,Debit Card,Frank,Markham
+652,2021-06-06,Sandra,8486,(297) 196-3208,Regular Combo,4,3,12,4,Debit Card,Frank,Scarborough
+651,2021-06-07,Marc,9679,(638) 876-1715 x269,Small Combo,3,3,9,3,Credit Card,Grace,Scarborough
+650,2021-06-07,Gina,9104,547 299 3261,Chicken Burger,2,2,12.98,6.49,Debit Card,Charlie,Toronto
+649,2021-06-07,Nathan,8859,902-573-0127,Ice Cream,15,4,15.96,3.99,Credit Card,Grace,Scarborough
+648,2021-06-08,Stephanie,1152,834-078-8182 x734,Garden Salad,14,4,19.96,4.99,Cash,Humza,Scarborough
+647,2021-06-14,Harold,6695,884.996.5466,Regular Combo,4,2,8,4,Cash,Eva,Markham
+646,2021-06-16,Lee,9660,960 310 5377,Small Combo,3,3,9,3,Credit Card,Altaf,Toronto
+645,2021-06-17,Elizabeth,3388,409 212 4085,Regular Combo,4,4,16,4,Cash,Eva,Toronto
+644,2021-06-18,Bradley,7691,+1 (259) 945-5173,Regular Combo,4,5,20,4,Debit Card,Eva,Mississauga
+643,2021-06-18,Nancy,7214,+1 (308) 139-7355,Soda (Regular),9,3,4.47,1.49,Cash,Dawood,Scarborough
+642,2021-06-21,Darlene,7301,1 (685) 225-4940,Veggie Burger,18,2,11.98,5.99,Credit Card,Grace,Mississauga
+641,2021-06-24,Kenneth,5484,1 (504) 374-0654,Regular Combo,4,2,8,4,Debit Card,Dawood,Mississauga
+640,2021-06-25,Gavin,6696,(909) 579-7197 x598,Double Patty Burger,17,2,15.98,7.99,Credit Card,Humza,Mississauga
+639,2021-06-28,Rodney,6349,(450) 242-6131,Onion Rings,12,1,3.99,3.99,Credit Card,Charlie,Scarborough
+638,2021-06-28,Michael,8283,(605) 139-4078 x449,Soda (Large),10,2,3.98,1.99,Debit Card,Eva,Markham
+637,2021-06-29,Selena,9228,+1 (701) 432-9790,Veggie Burger,18,3,17.97,5.99,Cash,Charlie,Scarborough
+636,2021-07-01,Sarah,3900,1 (497) 461-9086,Chili Cheese Fries,8,4,17.96,4.49,Debit Card,Eva,Mississauga
+635,2021-07-05,Angela,2029,(923) 016-3692 x643,Small Combo,3,2,6,3,Debit Card,Eva,Markham
+634,2021-07-08,Tracy,2787,(418) 182-3520,Cheese Fries,7,3,10.47,3.49,Credit Card,Humza,Markham
+633,2021-07-09,Joshua,5936,1-434-973-9735,Bottled Water,11,5,5,1,Debit Card,Grace,Mississauga
+632,2021-07-09,Kristen,1273,(152) 440-9121,Onion Rings,12,5,19.95,3.99,Debit Card,Altaf,Markham
+631,2021-07-10,Karen,2818,(235) 773-3098,Chicken Burger,2,2,12.98,6.49,Credit Card,Charlie,Scarborough
+630,2021-07-12,Bonnie,2101,1-859-102-8702,Classic Burger,1,2,11.98,5.99,Cash,Charlie,Mississauga
+629,2021-07-13,Kimberly,1078,1-284-984-9152,Veggie Burger,18,1,5.99,5.99,Cash,Bob,Toronto
+628,2021-07-15,Tammy,2278,321-066-7666,Garden Salad,14,5,24.95,4.99,Debit Card,Grace,Scarborough
+627,2021-07-16,Carolyn,9994,1-596-549-0826,Veggie Burger,18,2,11.98,5.99,Debit Card,Dawood,Toronto
+626,2021-07-16,Destiny,1169,645-610-5086,Choco Cookie,16,2,2.98,1.49,Debit Card,Eva,Markham
+625,2021-07-17,Robert,1754,230 242 3711,Chicken Tenders (4 pc),13,4,23.96,5.99,Debit Card,Altaf,Toronto
+624,2021-07-28,Lisa,5528,783.428.7292,Choco Cookie,16,4,5.96,1.49,Debit Card,Frank,Markham
+623,2021-08-02,Christopher,1363,(214) 119-7665,Large Combo,5,3,15,5,Debit Card,Eva,Markham
+622,2021-08-04,David,9448,1 (461) 156-8010,Cheese Fries,7,3,10.47,3.49,Cash,Bob,Toronto
+621,2021-08-06,Cassandra,1181,1-108-272-1897,Choco Cookie,16,2,2.98,1.49,Cash,Frank,Toronto
+620,2021-08-08,Stephen,6183,1 (669) 869-8724,Bottled Water,11,3,3,1,Debit Card,Bob,Scarborough
+619,2021-08-09,Danielle,5231,1-806-339-0134,Chicken Tenders (4 pc),13,2,11.98,5.99,Debit Card,Frank,Toronto
+618,2021-08-09,Jessica,9089,396-009-0570 x563,Chicken Tenders (4 pc),13,3,17.97,5.99,Cash,Humza,Markham
+617,2021-08-11,Christina,7616,743-727-5521,Regular Fries,6,5,12.45,2.49,Credit Card,Frank,Toronto
+616,2021-08-14,Jessica,9089,1 (154) 004-1868,Double Patty Burger,17,4,31.96,7.99,Credit Card,Eva,Mississauga
+615,2021-08-17,Michael,8283,810-732-7351 x792,Garden Salad,14,1,4.99,4.99,Credit Card,Grace,Scarborough
+614,2021-08-17,Jamie,5099,147-457-7199,Regular Fries,6,4,9.96,2.49,Cash,Altaf,Scarborough
+613,2021-08-17,Alicia,3907,588-715-2144 x491,Garden Salad,14,1,4.99,4.99,Credit Card,Frank,Toronto
+612,2021-08-18,Kevin,4959,+1 (845) 462-3672,Double Patty Burger,17,5,39.95,7.99,Credit Card,Grace,Markham
+611,2021-08-20,Bruce,9042,968.908.4532,Onion Rings,12,2,7.98,3.99,Cash,Grace,Toronto
+610,2021-08-23,Shane,3428,1 (408) 939-0364,Soda (Regular),9,4,5.96,1.49,Cash,Bob,Toronto
+609,2021-08-24,Jeffrey,4056,+1 (350) 443-3493,Small Combo,3,1,3,3,Debit Card,Eva,Toronto
+608,2021-08-25,Jeffrey,4056,154-496-6032,Soda (Regular),9,3,4.47,1.49,Debit Card,Dawood,Mississauga
+607,2021-08-26,Jennifer,3902,(164) 111-0875 x361,Classic Burger,1,2,11.98,5.99,Cash,Altaf,Toronto
+606,2021-08-26,Anna,2421,(178) 927-7919 x529,Bottled Water,11,3,3,1,Debit Card,Bob,Markham
+605,2021-08-29,Sandra,8486,+1 (225) 534-4737,Ice Cream,15,5,19.95,3.99,Cash,Grace,Scarborough
+604,2021-08-31,George,6082,(271) 609-5483,Soda (Regular),9,2,2.98,1.49,Cash,Bob,Mississauga
+603,2021-09-03,Gabrielle,9076,1 (665) 841-6574,Veggie Burger,18,2,11.98,5.99,Credit Card,Eva,Mississauga
+602,2021-09-03,David,9448,529 876 8488,Cheese Fries,7,4,13.96,3.49,Cash,Eva,Mississauga
+601,2021-09-03,Andrew,4364,(580) 552-4661 x027,Chicken Tenders (4 pc),13,4,23.96,5.99,Debit Card,Frank,Scarborough
+600,2021-09-05,Dennis,6487,942.505.6793,Chili Cheese Fries,8,1,4.49,4.49,Debit Card,Bob,Toronto
+599,2021-09-06,Thomas,2308,+1 (377) 920-8494,Veggie Burger,18,3,17.97,5.99,Credit Card,Humza,Mississauga
+598,2021-09-11,Gary,8909,634-624-5401,Bottled Water,11,4,4,1,Credit Card,Altaf,Markham
+597,2021-09-12,Jennifer,3902,541.702.8900,Soda (Large),10,1,1.99,1.99,Cash,Altaf,Markham
+596,2021-09-13,Andrew,4364,433.686.5844,Large Combo,5,5,25,5,Credit Card,Bob,Markham
+595,2021-09-14,Stephanie,1152,807.659.9765,Chili Cheese Fries,8,1,4.49,4.49,Credit Card,Grace,Mississauga
+594,2021-09-16,Peter,5570,440.007.9911,Ice Cream,15,1,3.99,3.99,Credit Card,Dawood,Mississauga
+593,2021-09-17,Mary,1953,(683) 366-6066 x571,Bottled Water,11,4,4,1,Debit Card,Eva,Markham
+592,2021-09-20,Stanley,1498,453-074-2545,Chicken Tenders (4 pc),13,1,5.99,5.99,Cash,Frank,Toronto
+591,2021-09-20,Miguel,1742,1-317-343-5688,Onion Rings,12,3,11.97,3.99,Credit Card,Grace,Toronto
+590,2021-09-20,Sally,9236,+1 (184) 526-4820,Cheese Fries,7,3,10.47,3.49,Debit Card,Bob,Mississauga
+589,2021-09-21,Ariel,2699,666.469.5493,Cheese Fries,7,1,3.49,3.49,Credit Card,Grace,Toronto
+588,2021-09-22,Brandon,9047,(959) 788-5146 x247,Ice Cream,15,5,19.95,3.99,Cash,Eva,Toronto
+587,2021-09-23,Robert,1754,(180) 821-1321,Regular Fries,6,4,9.96,2.49,Cash,Dawood,Toronto
+586,2021-09-27,Amber,6705,(856) 378-6814,Bottled Water,11,4,4,1,Credit Card,Eva,Mississauga
+585,2021-09-28,Jill,2778,(581) 465-1251,Ice Cream,15,4,15.96,3.99,Debit Card,Grace,Markham
+584,2021-09-29,Laura,5997,452-260-2164,Classic Burger,1,5,29.95,5.99,Cash,Frank,Markham
+583,2021-10-01,Kenneth,5484,170-565-3003 x700,Choco Cookie,16,1,1.49,1.49,Debit Card,Eva,Mississauga
+582,2021-10-01,David,9448,(560) 207-7620,Soda (Regular),9,2,2.98,1.49,Cash,Dawood,Mississauga
+581,2021-10-01,Adam,3744,(325) 161-5733 x524,Chili Cheese Fries,8,3,13.47,4.49,Credit Card,Eva,Markham
+580,2021-10-03,Carly,8400,(360) 401-9400,Veggie Burger,18,2,11.98,5.99,Credit Card,Altaf,Mississauga
+579,2021-10-05,Russell,2671,573.361.7860,Classic Burger,1,5,29.95,5.99,Credit Card,Frank,Scarborough
+578,2021-10-06,Vickie,5651,329-392-1313,Veggie Burger,18,5,29.95,5.99,Debit Card,Frank,Toronto
+577,2021-10-13,Anne,2421,1 (866) 054-6399,Chicken Burger,2,1,6.49,6.49,Cash,Grace,Toronto
+576,2021-10-14,Jesse,6835,102 391 9915,Regular Combo,4,5,20,4,Cash,Dawood,Mississauga
+575,2021-10-15,Arthur,9950,1 (217) 413-3114,Chili Cheese Fries,8,1,4.49,4.49,Credit Card,Altaf,Markham
+574,2021-10-16,Yolanda,9575,480-947-4006 x312,Chili Cheese Fries,8,4,17.96,4.49,Credit Card,Charlie,Scarborough
+573,2021-10-19,Michelle,5057,526.554.5925,Choco Cookie,16,5,7.45,1.49,Cash,Frank,Mississauga
+572,2021-10-19,Karen,2818,1 (981) 304-5785,Ice Cream,15,3,11.97,3.99,Debit Card,Altaf,Scarborough
+571,2021-10-20,Raymond,6966,883-146-2010 x296,Choco Cookie,16,1,1.49,1.49,Debit Card,Altaf,Mississauga
+570,2021-10-21,Stephen,6183,1-183-731-0236,Cheese Fries,7,1,3.49,3.49,Credit Card,Humza,Markham
+569,2021-10-22,Tracy,2787,552-945-0409 x647,Soda (Large),10,4,7.96,1.99,Credit Card,Eva,Mississauga
+568,2021-10-23,Peter,5570,(973) 760-0460,Choco Cookie,16,5,7.45,1.49,Credit Card,Altaf,Scarborough
+567,2021-10-23,Raymond,6966,667-971-7212 x226,Soda (Regular),9,2,2.98,1.49,Cash,Frank,Markham
+566,2021-10-23,Joseph,3078,426-098-2859,Chicken Burger,2,1,6.49,6.49,Debit Card,Bob,Toronto
+565,2021-10-25,Kimberly,1078,+1 (976) 392-7023,Chili Cheese Fries,8,2,8.98,4.49,Cash,Dawood,Scarborough
+564,2021-10-26,Laura,5997,(328) 524-5958 x158,Classic Burger,1,1,5.99,5.99,Debit Card,Dawood,Markham
+563,2021-10-26,Margaret,5040,685.762.0760,Ice Cream,15,4,15.96,3.99,Debit Card,Charlie,Markham
+562,2021-10-27,Joseph,3078,310-492-1136 x356,Ice Cream,15,2,7.98,3.99,Debit Card,Dawood,Mississauga
+561,2021-10-27,Thomas,2308,420 867 4568,Chicken Tenders (4 pc),13,3,17.97,5.99,Cash,Frank,Markham
+560,2021-10-27,Jennifer,3902,201.170.8053,Ice Cream,15,1,3.99,3.99,Credit Card,Humza,Markham
+559,2021-10-27,Roger,6782,+1 (620) 708-1473,Large Combo,5,5,25,5,Credit Card,Grace,Toronto
+558,2021-10-30,Brandon,9047,654 500 2883,Large Combo,5,5,25,5,Debit Card,Altaf,Scarborough
+557,2021-10-31,Patrick,4939,858-418-8414 x128,Double Patty Burger,17,2,15.98,7.99,Cash,Altaf,Scarborough
+556,2021-10-31,Scott,4042,196-869-0796 x242,Double Patty Burger,17,1,7.99,7.99,Credit Card,Altaf,Toronto
+555,2021-11-01,Michelle,5057,383-750-5502 x870,Chili Cheese Fries,8,1,4.49,4.49,Cash,Grace,Mississauga
+554,2021-11-01,Donald,7879,420-871-6284 x844,Classic Burger,1,5,29.95,5.99,Debit Card,Humza,Toronto
+553,2021-11-02,Theodore,9256,517.183.9750,Soda (Regular),9,5,7.45,1.49,Credit Card,Charlie,Markham
+552,2021-11-02,John,8745,1-109-894-9936,Chicken Burger,2,2,12.98,6.49,Cash,Eva,Toronto
+551,2021-11-02,Linda,2829,282.746.8711,Large Combo,5,2,10,5,Credit Card,Frank,Toronto
+550,2021-11-02,Angela,2029,1 (969) 591-1972,Large Combo,5,1,5,5,Cash,Frank,Scarborough
+549,2021-11-03,Jennifer,3902,106 257 4267,Chicken Tenders (4 pc),13,4,23.96,5.99,Cash,Humza,Toronto
+548,2021-11-04,James,3216,618-124-9837,Bottled Water,11,5,5,1,Debit Card,Bob,Toronto
+547,2021-11-06,Meredith,1020,762 000 5777,Soda (Large),10,5,9.95,1.99,Debit Card,Frank,Mississauga
+546,2021-11-07,Dennis,6487,(923) 845-8529,Chili Cheese Fries,8,1,4.49,4.49,Debit Card,Humza,Toronto
+545,2021-11-10,Tyler,3647,190-799-2857,Chicken Burger,2,2,12.98,6.49,Cash,Charlie,Mississauga
+544,2021-11-10,Nicholas,9552,(596) 530-8886,Chicken Tenders (4 pc),13,5,29.95,5.99,Cash,Humza,Scarborough
+543,2021-11-11,Brittany,8856,+1 (318) 913-6177,Chicken Tenders (4 pc),13,2,11.98,5.99,Cash,Dawood,Markham
+542,2021-11-11,Nicole,5152,551.951.1112,Small Combo,3,4,12,3,Debit Card,Dawood,Mississauga
+541,2021-11-11,Jason,3332,301-587-6507,Veggie Burger,18,3,17.97,5.99,Credit Card,Frank,Toronto
+540,2021-11-13,Timothy,1621,(903) 902-0108,Large Combo,5,3,15,5,Credit Card,Bob,Toronto
+539,2021-11-15,Michelle,5057,(480) 476-5739 x164,Regular Fries,6,1,2.49,2.49,Debit Card,Dawood,Scarborough
+538,2021-11-17,Bradley,7691,877.816.1690,Veggie Burger,18,4,23.96,5.99,Cash,Altaf,Toronto
+537,2021-11-17,Sarah,3900,870-652-7330 x514,Classic Burger,1,4,23.96,5.99,Cash,Altaf,Markham
+536,2021-11-18,Julie,7444,958-282-2606 x462,Chili Cheese Fries,8,3,13.47,4.49,Debit Card,Altaf,Mississauga
+535,2021-11-20,Franklin,8549,(846) 500-9816 x782,Small Combo,3,2,6,3,Cash,Humza,Mississauga
+534,2021-11-21,Megan,3149,543.207.3788,Regular Combo,4,5,20,4,Credit Card,Dawood,Scarborough
+533,2021-11-22,Brian,3604,(300) 914-5301,Classic Burger,1,2,11.98,5.99,Cash,Bob,Scarborough
+532,2021-11-27,Melissa,7924,(268) 028-5044 x951,Classic Burger,1,1,5.99,5.99,Credit Card,Bob,Markham
+531,2021-11-28,Tammy,2278,+1 (298) 359-9873,Regular Fries,6,5,12.45,2.49,Debit Card,Eva,Mississauga
+530,2021-11-30,Tiffany,9312,826.524.1771,Chili Cheese Fries,8,5,22.45,4.49,Cash,Grace,Mississauga
+529,2021-12-02,Matthew,1615,(635) 366-6687,Cheese Fries,7,4,13.96,3.49,Cash,Altaf,Mississauga
+528,2021-12-04,Matthew,1615,679 832 1952,Onion Rings,12,3,11.97,3.99,Cash,Grace,Toronto
+527,2021-12-04,Hannah,5718,+1 (135) 952-2612,Garden Salad,14,2,9.98,4.99,Credit Card,Bob,Markham
+526,2021-12-05,Desiree,4901,(405) 748-2150 x437,Veggie Burger,18,2,11.98,5.99,Cash,Altaf,Scarborough
+525,2021-12-05,Lauren,1936,1-996-244-4467,Regular Combo,4,5,20,4,Debit Card,Dawood,Toronto
+524,2021-12-05,Cody,9156,1 (449) 844-2073,Choco Cookie,16,3,4.47,1.49,Cash,Eva,Scarborough
+523,2021-12-07,Mark,4959,812.101.0429,Garden Salad,14,4,19.96,4.99,Cash,Humza,Mississauga
+522,2021-12-08,Tanya,8355,370.628.4235,Soda (Large),10,2,3.98,1.99,Debit Card,Grace,Mississauga
+521,2021-12-11,Amy,2862,+1 (265) 141-4902,Onion Rings,12,2,7.98,3.99,Cash,Altaf,Scarborough
+520,2021-12-14,Deanna,6559,(980) 771-7790 x670,Regular Combo,4,1,4,4,Credit Card,Bob,Scarborough
+519,2021-12-21,Kimberly,1078,977 298 0595,Small Combo,3,4,12,3,Credit Card,Charlie,Scarborough
+518,2021-12-21,Megan,3149,579-201-0507 x613,Cheese Fries,7,3,10.47,3.49,Credit Card,Bob,Markham
+517,2021-12-23,Haley,1452,590-690-8400,Chicken Burger,2,1,6.49,6.49,Cash,Grace,Scarborough
+516,2021-12-24,Katelyn,5885,1 (707) 405-9675,Onion Rings,12,5,19.95,3.99,Cash,Grace,Mississauga
+515,2021-12-26,Sean,8146,+1 (964) 451-7735,Regular Fries,6,3,7.47,2.49,Credit Card,Humza,Mississauga
+514,2021-12-27,Eric,1710,(243) 235-3315,Veggie Burger,18,2,11.98,5.99,Cash,Eva,Scarborough
+513,2021-12-28,Patrick,4939,977-333-0092,Cheese Fries,7,1,3.49,3.49,Debit Card,Altaf,Toronto
+512,2021-12-28,Tammy,2278,(283) 208-1554,Soda (Regular),9,3,4.47,1.49,Credit Card,Dawood,Scarborough
+511,2021-12-30,Brandon,9047,166-826-6208,Onion Rings,12,2,7.98,3.99,Debit Card,Eva,Scarborough
+510,2021-12-31,Sabrina,6240,(161) 920-2347,Regular Fries,6,5,12.45,2.49,Credit Card,Frank,Scarborough
+509,2022-01-01,Andrew,4364,1-296-656-1926,Regular Combo,4,3,12,4,Credit Card,Bob,Markham
+508,2022-01-04,Joshua,5936,(690) 956-1776 x303,Soda (Large),10,2,3.98,1.99,Credit Card,Bob,Toronto
+507,2022-01-04,David,9448,(455) 705-2967 x803,Chili Cheese Fries,8,1,4.49,4.49,Credit Card,Frank,Mississauga
+506,2022-01-04,Kimberly,1078,+1 (845) 236-2472,Onion Rings,12,4,15.96,3.99,Credit Card,Altaf,Toronto
+505,2022-01-05,Laura,5997,1 (842) 971-7883,Classic Burger,1,3,17.97,5.99,Cash,Frank,Scarborough
+504,2022-01-06,Wanda,2928,878-342-9031,Classic Burger,1,5,29.95,5.99,Credit Card,Eva,Mississauga
+503,2022-01-08,John,8745,128-702-3305 x695,Ice Cream,15,4,15.96,3.99,Credit Card,Grace,Markham
+502,2022-01-11,Katherine,7091,784-274-7541,Choco Cookie,16,4,5.96,1.49,Debit Card,Dawood,Mississauga
+501,2022-01-11,Kelly,9701,1-257-733-9973,Double Patty Burger,17,1,7.99,7.99,Credit Card,Altaf,Scarborough
+500,2022-01-13,Mark,4959,(515) 075-9284,Chicken Burger,2,5,32.45,6.49,Cash,Eva,Markham
+499,2022-01-14,Andrew,4364,(603) 598-7482 x005,Bottled Water,11,3,3,1,Credit Card,Frank,Scarborough
+498,2022-01-15,Scott,4042,776.094.8292,Chili Cheese Fries,8,2,8.98,4.49,Credit Card,Humza,Markham
+497,2022-01-17,Katherine,7091,174-779-0226,Regular Fries,6,4,9.96,2.49,Cash,Eva,Mississauga
+496,2022-01-18,Robert,1754,(844) 158-4226,Chili Cheese Fries,8,3,13.47,4.49,Credit Card,Frank,Markham
+495,2022-01-18,Jennifer,3902,602-258-2595,Choco Cookie,16,5,7.45,1.49,Cash,Charlie,Mississauga
+494,2022-01-19,Mary,1953,714.342.2141,Double Patty Burger,17,3,23.97,7.99,Cash,Eva,Mississauga
+493,2022-01-19,Bethany,2270,979.447.9934,Regular Fries,6,5,12.45,2.49,Credit Card,Grace,Scarborough
+492,2022-01-20,Anne,2421,337.271.9827,Choco Cookie,16,4,5.96,1.49,Credit Card,Bob,Mississauga
+491,2022-01-23,Jessica,9089,(826) 829-0264 x496,Ice Cream,15,3,11.97,3.99,Debit Card,Frank,Scarborough
+490,2022-01-27,Paula,6721,480 966 5275,Regular Combo,4,3,12,4,Credit Card,Bob,Mississauga
+489,2022-01-27,Keith,8364,+1 (185) 734-3574,Chicken Tenders (4 pc),13,4,23.96,5.99,Credit Card,Frank,Mississauga
+488,2022-01-27,Amber,6705,+1 (733) 843-8534,Ice Cream,15,1,3.99,3.99,Debit Card,Humza,Toronto
+487,2022-01-29,Becky,5188,1-440-463-8345,Regular Combo,4,3,12,4,Cash,Altaf,Markham
+486,2022-01-29,Angela,2029,187-752-5258,Onion Rings,12,4,15.96,3.99,Debit Card,Dawood,Scarborough
+485,2022-01-30,Michelle,5057,428 258 0440,Small Combo,3,3,9,3,Debit Card,Frank,Toronto
+484,2022-02-02,Lori,1637,424 507 0719,Garden Salad,14,3,14.97,4.99,Debit Card,Altaf,Scarborough
+483,2022-02-05,William,8661,1 (599) 887-9998,Chili Cheese Fries,8,3,13.47,4.49,Credit Card,Altaf,Markham
+482,2022-02-07,Mary,1953,549-806-4673 x697,Garden Salad,14,4,19.96,4.99,Debit Card,Altaf,Scarborough
+481,2022-02-09,Zachary,4392,(553) 076-8405,Classic Burger,1,4,23.96,5.99,Cash,Charlie,Mississauga
+480,2022-02-10,Amy,2862,+1 (632) 189-5232,Veggie Burger,18,3,17.97,5.99,Cash,Humza,Mississauga
+479,2022-02-10,Taylor,6601,694-603-0664,Chili Cheese Fries,8,3,13.47,4.49,Credit Card,Bob,Markham
+478,2022-02-10,Joshua,5936,330-623-0746 x911,Classic Burger,1,4,23.96,5.99,Cash,Humza,Scarborough
+477,2022-02-11,Ann,1244,+1 (217) 166-2276,Garden Salad,14,5,24.95,4.99,Debit Card,Charlie,Mississauga
+476,2022-02-13,Erin,8311,435.455.1709,Chili Cheese Fries,8,3,13.47,4.49,Debit Card,Humza,Toronto
+475,2022-02-14,Lori,1637,+1 (745) 918-9303,Cheese Fries,7,2,6.98,3.49,Cash,Dawood,Scarborough
+474,2022-02-15,Katherine,7091,636-680-9292,Small Combo,3,1,3,3,Debit Card,Eva,Mississauga
+473,2022-02-16,Kevin,4959,(648) 194-1925,Regular Fries,6,4,9.96,2.49,Debit Card,Humza,Toronto
+472,2022-02-17,Felicia,8788,(858) 609-6558 x363,Classic Burger,1,1,5.99,5.99,Credit Card,Grace,Mississauga
+471,2022-02-17,Grace,3771,1 (214) 288-2603,Choco Cookie,16,3,4.47,1.49,Debit Card,Frank,Toronto
+470,2022-02-20,Anna,2421,1-198-740-3960,Regular Fries,6,4,9.96,2.49,Debit Card,Altaf,Mississauga
+469,2022-02-20,Stanley,1498,615-260-8490,Choco Cookie,16,4,5.96,1.49,Debit Card,Charlie,Toronto
+468,2022-02-21,Julie,7444,+1 (257) 293-9790,Garden Salad,14,5,24.95,4.99,Debit Card,Frank,Scarborough
+467,2022-02-25,Deborah,1254,(153) 499-3750 x311,Veggie Burger,18,3,17.97,5.99,Cash,Dawood,Markham
+466,2022-02-26,Jose,1747,850-593-6351,Veggie Burger,18,5,29.95,5.99,Cash,Grace,Mississauga
+465,2022-02-26,Angela,2029,(427) 371-0339 x024,Veggie Burger,18,5,29.95,5.99,Debit Card,Eva,Markham
+464,2022-02-27,Tracey,2889,+1 (430) 985-9334,Chicken Tenders (4 pc),13,2,11.98,5.99,Debit Card,Bob,Mississauga
+463,2022-03-02,Kathryn,1089,+1 (340) 984-1184,Large Combo,5,4,20,5,Credit Card,Humza,Markham
+462,2022-03-03,Tonya,5417,292 861 5569,Choco Cookie,16,4,5.96,1.49,Debit Card,Humza,Markham
+461,2022-03-03,David,9448,377.191.4397,Regular Fries,6,3,7.47,2.49,Debit Card,Charlie,Mississauga
+460,2022-03-05,Jack,4042,1 (470) 989-0891,Veggie Burger,18,1,5.99,5.99,Credit Card,Humza,Toronto
+459,2022-03-05,Jessica,9089,812-945-2091 x581,Ice Cream,15,3,11.97,3.99,Credit Card,Eva,Markham
+458,2022-03-06,Warren,8105,519 196 9522,Bottled Water,11,1,1,1,Credit Card,Humza,Scarborough
+457,2022-03-06,Mary,1953,1 (491) 796-1479,Soda (Large),10,3,5.97,1.99,Debit Card,Eva,Scarborough
+456,2022-03-08,Barbara,1333,353.804.4848,Regular Fries,6,4,9.96,2.49,Cash,Charlie,Mississauga
+455,2022-03-08,Sarah,3900,521 895 5430,Small Combo,3,3,9,3,Debit Card,Bob,Mississauga
+454,2022-03-08,Nicholas,9552,(919) 458-5076,Soda (Large),10,4,7.96,1.99,Credit Card,Grace,Toronto
+453,2022-03-08,Susan,5546,417 155 1951,Cheese Fries,7,4,13.96,3.49,Credit Card,Grace,Scarborough
+452,2022-03-10,Isaiah,3142,1-640-929-3397,Small Combo,3,4,12,3,Credit Card,Charlie,Scarborough
+451,2022-03-13,Catherine,2543,213-507-3954 x760,Cheese Fries,7,1,3.49,3.49,Debit Card,Bob,Mississauga
+450,2022-03-14,Linda,2829,(836) 233-3634 x521,Large Combo,5,3,15,5,Credit Card,Altaf,Toronto
+449,2022-03-15,Blake,6899,(969) 552-5200 x865,Veggie Burger,18,4,23.96,5.99,Credit Card,Altaf,Toronto
+448,2022-03-16,Rhonda,5475,+1 (478) 898-4068,Double Patty Burger,17,3,23.97,7.99,Debit Card,Grace,Scarborough
+447,2022-03-17,William,8661,(390) 663-0505 x679,Chicken Tenders (4 pc),13,1,5.99,5.99,Credit Card,Humza,Mississauga
+446,2022-03-22,Nicole,5152,217.362.1921,Choco Cookie,16,4,5.96,1.49,Cash,Frank,Toronto
+445,2022-03-22,Thomas,2308,1-714-590-4448,Large Combo,5,2,10,5,Credit Card,Altaf,Toronto
+444,2022-03-23,Suzanne,3078,1-392-659-4857,Chicken Burger,2,4,25.96,6.49,Debit Card,Altaf,Toronto
+443,2022-03-25,Kevin,4959,+1 (718) 650-1858,Small Combo,3,1,3,3,Credit Card,Dawood,Toronto
+442,2022-03-26,Melanie,8697,236 898 5063,Garden Salad,14,2,9.98,4.99,Credit Card,Charlie,Scarborough
+441,2022-03-26,William,8661,665-422-2059 x846,Double Patty Burger,17,4,31.96,7.99,Credit Card,Eva,Toronto
+440,2022-03-27,Nichole,6245,405-425-7185 x715,Double Patty Burger,17,4,31.96,7.99,Credit Card,Altaf,Mississauga
+439,2022-03-27,Amanda,3536,313-986-7074,Soda (Large),10,5,9.95,1.99,Debit Card,Bob,Markham
+438,2022-03-28,Brian,3604,1-313-325-6774,Double Patty Burger,17,1,7.99,7.99,Debit Card,Humza,Toronto
+437,2022-03-29,Joseph,3078,321-089-8090,Chili Cheese Fries,8,1,4.49,4.49,Credit Card,Altaf,Mississauga
+436,2022-03-30,Stephanie,1152,(202) 832-5955 x933,Chicken Tenders (4 pc),13,5,29.95,5.99,Cash,Charlie,Toronto
+435,2022-04-02,Cassandra,1181,+1 (257) 825-1127,Bottled Water,11,5,5,1,Cash,Bob,Mississauga
+434,2022-04-03,Steven,5745,1-299-070-7225,Soda (Regular),9,3,4.47,1.49,Credit Card,Bob,Toronto
+433,2022-04-04,Stephen,6183,(622) 503-9218 x538,Choco Cookie,16,3,4.47,1.49,Cash,Humza,Scarborough
+432,2022-04-05,Kim,4944,382 859 9808,Ice Cream,15,5,19.95,3.99,Credit Card,Frank,Toronto
+431,2022-04-05,Wayne,7952,454.425.0207,Cheese Fries,7,3,10.47,3.49,Cash,Eva,Markham
+430,2022-04-05,Jason,3332,(356) 410-5944,Cheese Fries,7,3,10.47,3.49,Debit Card,Frank,Mississauga
+429,2022-04-08,William,8661,+1 (839) 162-7293,Ice Cream,15,4,15.96,3.99,Credit Card,Frank,Mississauga
+428,2022-04-08,Erika,2757,(754) 408-6942 x577,Double Patty Burger,17,5,39.95,7.99,Credit Card,Humza,Markham
+427,2022-04-09,Nathan,8859,242-960-0443 x965,Choco Cookie,16,1,1.49,1.49,Cash,Grace,Scarborough
+426,2022-04-10,Tyler,3647,(168) 308-3607,Veggie Burger,18,1,5.99,5.99,Debit Card,Dawood,Markham
+425,2022-04-10,Daniel,4420,+1 (575) 454-0069,Chili Cheese Fries,8,4,17.96,4.49,Credit Card,Altaf,Scarborough
+424,2022-04-11,Jennifer,3902,1-390-738-4287,Regular Fries,6,2,4.98,2.49,Credit Card,Altaf,Markham
+423,2022-04-12,Daisy,1232,(672) 974-3070 x701,Veggie Burger,18,4,23.96,5.99,Cash,Altaf,Mississauga
+422,2022-04-15,Tammy,2278,1 (263) 020-7820,Regular Fries,6,1,2.49,2.49,Credit Card,Bob,Scarborough
+421,2022-04-18,Jeremiah,9841,(254) 335-2379 x078,Choco Cookie,16,4,5.96,1.49,Debit Card,Altaf,Markham
+420,2022-04-19,Melissa,7924,+1 (846) 019-2836,Large Combo,5,4,20,5,Credit Card,Frank,Scarborough
+419,2022-04-20,Nancy,7214,(674) 877-8083 x171,Classic Burger,1,1,5.99,5.99,Credit Card,Frank,Markham
+418,2022-04-25,Angela,2029,+1 (703) 156-4111,Large Combo,5,4,20,5,Debit Card,Dawood,Scarborough
+417,2022-04-26,Steven,5745,837 833 9683,Double Patty Burger,17,1,7.99,7.99,Debit Card,Bob,Mississauga
+416,2022-04-26,Brenda,9819,354-758-0108 x709,Choco Cookie,16,5,7.45,1.49,Debit Card,Dawood,Scarborough
+415,2022-04-27,Anita,6075,1 (131) 747-6474,Double Patty Burger,17,2,15.98,7.99,Debit Card,Frank,Mississauga
+414,2022-04-28,Nicole,5152,646-017-2647 x605,Regular Fries,6,1,2.49,2.49,Cash,Bob,Toronto
+413,2022-04-30,Michele,7459,1-765-806-4238,Chicken Tenders (4 pc),13,2,11.98,5.99,Credit Card,Eva,Toronto
+412,2022-05-03,Joan,6996,+1 (873) 330-6355,Soda (Regular),9,4,5.96,1.49,Credit Card,Eva,Markham
+411,2022-05-03,Ashley,2543,(594) 449-2955,Ice Cream,15,1,3.99,3.99,Cash,Frank,Scarborough
+410,2022-05-04,Jennifer,3902,(642) 496-9491 x232,Soda (Regular),9,1,1.49,1.49,Debit Card,Charlie,Toronto
+409,2022-05-06,Denise,6487,351-523-8376,Regular Combo,4,2,8,4,Cash,Bob,Scarborough
+408,2022-05-07,Jill,2778,(315) 961-3470 x941,Bottled Water,11,2,2,1,Cash,Bob,Scarborough
+407,2022-05-08,Brittany,8856,612.980.1604,Chicken Tenders (4 pc),13,4,23.96,5.99,Debit Card,Altaf,Markham
+406,2022-05-09,Devin,3607,386.195.0131,Classic Burger,1,4,23.96,5.99,Cash,Charlie,Toronto
+405,2022-05-12,Megan,3149,417 502 3212,Choco Cookie,16,3,4.47,1.49,Credit Card,Frank,Mississauga
+404,2022-05-15,Melissa,7924,+1 (297) 030-1151,Double Patty Burger,17,2,15.98,7.99,Debit Card,Bob,Markham
+403,2022-05-19,Samuel,8179,948 016 2158,Choco Cookie,16,1,1.49,1.49,Cash,Altaf,Toronto
+402,2022-05-20,Jennifer,3902,1 (184) 236-4665,Soda (Regular),9,4,5.96,1.49,Credit Card,Altaf,Toronto
+401,2022-05-21,Timothy,1621,679-984-0364,Soda (Regular),9,1,1.49,1.49,Credit Card,Charlie,Markham
+400,2022-05-21,Patricia,2451,(570) 597-9002 x157,Soda (Regular),9,1,1.49,1.49,Cash,Frank,Markham
+399,2022-05-22,Rebecca,1981,384 985 4411,Bottled Water,11,1,1,1,Credit Card,Eva,Mississauga
+398,2022-05-24,Selena,9228,1 (921) 905-6959,Large Combo,5,1,5,5,Debit Card,Dawood,Toronto
+397,2022-05-25,Jeffrey,4056,573-424-5496 x795,Chicken Tenders (4 pc),13,3,17.97,5.99,Cash,Charlie,Scarborough
+396,2022-05-27,Felicia,8788,1-302-581-9394,Choco Cookie,16,3,4.47,1.49,Credit Card,Dawood,Markham
+395,2022-06-01,Dana,7336,469.980.8541,Double Patty Burger,17,5,39.95,7.99,Debit Card,Eva,Scarborough
+394,2022-06-04,Amy,2862,1 (359) 725-3673,Regular Fries,6,4,9.96,2.49,Cash,Frank,Mississauga
+393,2022-06-05,Emily,5603,891.765.5264,Classic Burger,1,1,5.99,5.99,Credit Card,Bob,Scarborough
+392,2022-06-06,Brian,3604,494.639.4377,Large Combo,5,1,5,5,Debit Card,Eva,Scarborough
+391,2022-06-07,Kendra,3743,556-376-1784,Soda (Large),10,1,1.99,1.99,Debit Card,Humza,Toronto
+390,2022-06-07,Jennifer,3902,1 (858) 102-6117,Garden Salad,14,2,9.98,4.99,Debit Card,Grace,Markham
+389,2022-06-07,Paul,7075,513 927 1459,Ice Cream,15,1,3.99,3.99,Credit Card,Charlie,Toronto
+388,2022-06-07,Maria,8318,+1 (100) 680-7075,Veggie Burger,18,3,17.97,5.99,Credit Card,Humza,Markham
+387,2022-06-12,Lisa,5528,806-437-2094,Regular Combo,4,4,16,4,Credit Card,Bob,Markham
+386,2022-06-12,Cheryl,4313,(638) 416-1313,Ice Cream,15,2,7.98,3.99,Credit Card,Eva,Mississauga
+385,2022-06-13,Erin,8311,(899) 484-6790 x372,Ice Cream,15,4,15.96,3.99,Cash,Humza,Scarborough
+384,2022-06-13,Christopher,1363,1 (166) 223-3988,Regular Fries,6,3,7.47,2.49,Cash,Dawood,Mississauga
+383,2022-06-14,Kendra,3743,636.442.2466,Regular Combo,4,2,8,4,Cash,Charlie,Toronto
+382,2022-06-14,Christopher,1363,+1 (862) 740-7059,Regular Combo,4,2,8,4,Credit Card,Grace,Toronto
+381,2022-06-15,Susan,5546,1 (332) 007-0027,Onion Rings,12,1,3.99,3.99,Credit Card,Bob,Mississauga
+380,2022-06-15,Nathan,8859,223-949-8721 x274,Cheese Fries,7,3,10.47,3.49,Debit Card,Dawood,Scarborough
+379,2022-06-16,Diane,7526,339 670 8044,Chicken Burger,2,1,6.49,6.49,Credit Card,Grace,Mississauga
+378,2022-06-22,Ryan,7539,(223) 631-5158,Chicken Tenders (4 pc),13,5,29.95,5.99,Cash,Altaf,Toronto
+377,2022-06-23,Luke,9881,+1 (271) 358-6407,Garden Salad,14,2,9.98,4.99,Debit Card,Dawood,Mississauga
+376,2022-06-24,Evan,1562,211-890-5888 x460,Regular Fries,6,5,12.45,2.49,Debit Card,Grace,Toronto
+375,2022-06-24,Xavier,5831,944 328 0748,Soda (Large),10,3,5.97,1.99,Debit Card,Grace,Toronto
+374,2022-06-25,Tanya,8355,845-991-1270 x903,Cheese Fries,7,2,6.98,3.49,Cash,Grace,Toronto
+373,2022-06-26,Clinton,8196,802.442.0852,Large Combo,5,5,25,5,Credit Card,Altaf,Toronto
+372,2022-06-26,Jennifer,3902,1 (296) 965-7087,Regular Fries,6,2,4.98,2.49,Debit Card,Humza,Scarborough
+371,2022-06-30,Steven,5745,1 (905) 573-6250,Onion Rings,12,5,19.95,3.99,Debit Card,Grace,Mississauga
+370,2022-07-01,Kimberly,1078,(159) 888-8654 x220,Soda (Large),10,3,5.97,1.99,Cash,Grace,Markham
+369,2022-07-03,Nicole,5152,561-939-3741 x978,Bottled Water,11,2,2,1,Cash,Eva,Scarborough
+368,2022-07-03,Emily,5603,412-255-6841,Chicken Tenders (4 pc),13,2,11.98,5.99,Cash,Grace,Toronto
+367,2022-07-05,Maurice,4822,1-812-135-8792,Regular Combo,4,3,12,4,Credit Card,Altaf,Mississauga
+366,2022-07-06,John,8745,(915) 432-3554,Double Patty Burger,17,5,39.95,7.99,Credit Card,Humza,Scarborough
+365,2022-07-09,Jessica,9089,263.464.1247,Ice Cream,15,4,15.96,3.99,Credit Card,Eva,Mississauga
+364,2022-07-13,Scott,4042,(259) 217-0648 x081,Chicken Burger,2,4,25.96,6.49,Debit Card,Altaf,Toronto
+363,2022-07-14,Rachel,3992,934-164-7093,Chicken Tenders (4 pc),13,3,17.97,5.99,Debit Card,Grace,Toronto
+362,2022-07-14,Samantha,1377,(661) 365-5563 x972,Regular Combo,4,2,8,4,Cash,Charlie,Mississauga
+361,2022-07-15,Robert,1754,(136) 178-1381 x710,Cheese Fries,7,5,17.45,3.49,Debit Card,Dawood,Toronto
+360,2022-07-16,Chad,1002,1-281-508-7185,Small Combo,3,3,9,3,Debit Card,Grace,Markham
+359,2022-07-16,Michael,8283,+1 (396) 953-9376,Veggie Burger,18,2,11.98,5.99,Debit Card,Altaf,Mississauga
+358,2022-07-17,Laura,5997,1-286-607-5762,Soda (Large),10,4,7.96,1.99,Debit Card,Charlie,Toronto
+357,2022-07-17,Leslie,4439,(686) 815-3956 x791,Chicken Burger,2,3,19.47,6.49,Credit Card,Altaf,Toronto
+356,2022-07-17,Cynthia,4622,522.206.0036,Large Combo,5,4,20,5,Credit Card,Grace,Mississauga
+355,2022-07-18,Frances,9535,+1 (122) 783-7614,Ice Cream,15,3,11.97,3.99,Credit Card,Grace,Mississauga
+354,2022-07-18,Michael,8283,570-857-5927,Chili Cheese Fries,8,2,8.98,4.49,Cash,Eva,Toronto
+353,2022-07-19,Paula,6721,+1 (438) 363-7813,Choco Cookie,16,3,4.47,1.49,Credit Card,Bob,Mississauga
+352,2022-07-19,Brandon,9047,786-158-2671 x198,Chicken Burger,2,2,12.98,6.49,Debit Card,Altaf,Markham
+351,2022-07-21,Felicia,8788,939-218-7710 x195,Regular Combo,4,5,20,4,Cash,Bob,Scarborough
+350,2022-07-22,Christopher,1363,1 (660) 362-0886,Ice Cream,15,4,15.96,3.99,Debit Card,Altaf,Mississauga
+349,2022-07-23,Donald,7879,+1 (114) 683-3509,Ice Cream,15,4,15.96,3.99,Credit Card,Charlie,Scarborough
+348,2022-07-23,Joel,7180,413 758 4394,Classic Burger,1,5,29.95,5.99,Credit Card,Bob,Scarborough
+347,2022-07-24,Nathaniel,9277,1 (365) 593-1615,Garden Salad,14,3,14.97,4.99,Credit Card,Altaf,Toronto
+346,2022-07-24,Nancy,7214,1-638-152-5770,Veggie Burger,18,1,5.99,5.99,Cash,Humza,Toronto
+345,2022-07-25,Sarah,3900,698-552-9508,Double Patty Burger,17,2,15.98,7.99,Cash,Grace,Toronto
+344,2022-08-01,Jessica,9089,(255) 515-3695 x992,Regular Combo,4,5,20,4,Cash,Eva,Toronto
+343,2022-08-02,Erin,8311,(392) 197-1534 x470,Onion Rings,12,1,3.99,3.99,Credit Card,Humza,Mississauga
+342,2022-08-05,Morgan,4739,758.284.4889,Classic Burger,1,4,23.96,5.99,Credit Card,Dawood,Toronto
+341,2022-08-06,Connie,7054,+1 (749) 278-9499,Garden Salad,14,3,14.97,4.99,Debit Card,Grace,Markham
+340,2022-08-06,Frederick,3025,226 563 7677,Small Combo,3,5,15,3,Debit Card,Altaf,Scarborough
+339,2022-08-09,Charles,6550,(141) 437-7679 x337,Regular Fries,6,5,12.45,2.49,Debit Card,Bob,Markham
+338,2022-08-12,Matthew,1615,1-259-648-6000,Chili Cheese Fries,8,1,4.49,4.49,Credit Card,Frank,Markham
+337,2022-08-12,Jesus,1661,1 (341) 269-0184,Chicken Tenders (4 pc),13,2,11.98,5.99,Debit Card,Charlie,Scarborough
+336,2022-08-15,Linda,2829,1-508-251-7970,Double Patty Burger,17,2,15.98,7.99,Cash,Dawood,Toronto
+335,2022-08-16,John,8745,388.740.2105,Garden Salad,14,4,19.96,4.99,Cash,Bob,Scarborough
+334,2022-08-21,Patrick,4939,(282) 257-7592 x990,Ice Cream,15,2,7.98,3.99,Credit Card,Charlie,Toronto
+333,2022-08-22,David,9448,+1 (981) 537-5973,Onion Rings,12,3,11.97,3.99,Debit Card,Dawood,Markham
+332,2022-08-24,Julie,7444,636.400.8560,Small Combo,3,3,9,3,Debit Card,Bob,Markham
+331,2022-08-25,Chelsea,9469,509-404-4234 x316,Ice Cream,15,4,15.96,3.99,Cash,Frank,Mississauga
+330,2022-08-26,Stephanie,1152,(357) 519-2478 x421,Ice Cream,15,2,7.98,3.99,Debit Card,Grace,Mississauga
+329,2022-08-27,Amy,2862,1-646-584-2574,Onion Rings,12,4,15.96,3.99,Credit Card,Humza,Scarborough
+328,2022-08-28,Michael,8283,(354) 089-8814,Chicken Burger,2,4,25.96,6.49,Credit Card,Charlie,Mississauga
+327,2022-09-02,Crystal,2921,(600) 574-9083 x226,Veggie Burger,18,4,23.96,5.99,Credit Card,Dawood,Scarborough
+326,2022-09-02,Keith,8364,161.115.4471,Large Combo,5,2,10,5,Cash,Humza,Markham
+325,2022-09-02,Michael,8283,(782) 424-3940 x951,Veggie Burger,18,4,23.96,5.99,Credit Card,Frank,Scarborough
+324,2022-09-03,Nathan,8859,959-327-8242 x412,Ice Cream,15,4,15.96,3.99,Cash,Grace,Toronto
+323,2022-09-04,Lisa,5528,1 (943) 561-6122,Regular Combo,4,4,16,4,Credit Card,Grace,Toronto
+322,2022-09-05,Kyle,5614,462.014.7085,Small Combo,3,1,3,3,Credit Card,Dawood,Markham
+321,2022-09-05,Stephanie,1152,989-115-4271,Garden Salad,14,2,9.98,4.99,Credit Card,Charlie,Scarborough
+320,2022-09-07,Allen,2536,348.883.8749,Double Patty Burger,17,2,15.98,7.99,Debit Card,Humza,Toronto
+319,2022-09-08,Charles,6550,427-049-5032,Choco Cookie,16,1,1.49,1.49,Cash,Altaf,Mississauga
+318,2022-09-08,Maria,8318,328-989-2112 x814,Soda (Regular),9,1,1.49,1.49,Cash,Dawood,Mississauga
+317,2022-09-11,Kristina,2243,(381) 130-9911,Onion Rings,12,2,7.98,3.99,Cash,Charlie,Markham
+316,2022-09-11,Derrick,1791,(849) 248-9788,Garden Salad,14,4,19.96,4.99,Credit Card,Bob,Toronto
+315,2022-09-11,Steven,5745,1 (893) 995-1568,Chicken Tenders (4 pc),13,3,17.97,5.99,Credit Card,Dawood,Mississauga
+314,2022-09-12,Bryan,6766,349 491 5252,Garden Salad,14,2,9.98,4.99,Debit Card,Charlie,Toronto
+313,2022-09-13,Justin,9679,(550) 926-8652,Garden Salad,14,1,4.99,4.99,Cash,Eva,Scarborough
+312,2022-09-13,John,8745,(906) 916-7045,Chicken Burger,2,3,19.47,6.49,Cash,Eva,Markham
+311,2022-09-14,Dustin,7685,315 192 7926,Classic Burger,1,5,29.95,5.99,Credit Card,Dawood,Toronto
+310,2022-09-15,Mary,1953,231.050.9197,Garden Salad,14,4,19.96,4.99,Cash,Charlie,Scarborough
+309,2022-09-16,Tyler,3647,(914) 354-9486 x578,Double Patty Burger,17,2,15.98,7.99,Credit Card,Grace,Scarborough
+308,2022-09-17,David,9448,604.731.4872,Chili Cheese Fries,8,4,17.96,4.49,Credit Card,Altaf,Mississauga
+307,2022-09-18,Mary,1953,170 267 0419,Cheese Fries,7,4,13.96,3.49,Debit Card,Humza,Toronto
+306,2022-09-21,David,9448,982 832 8335,Garden Salad,14,3,14.97,4.99,Credit Card,Eva,Scarborough
+305,2022-09-24,Sarah,3900,1-767-152-5846,Bottled Water,11,5,5,1,Cash,Frank,Toronto
+304,2022-09-25,Emily,5603,392.533.3224,Garden Salad,14,2,9.98,4.99,Credit Card,Dawood,Toronto
+303,2022-09-29,Michael,8283,(799) 349-0421 x225,Double Patty Burger,17,1,7.99,7.99,Credit Card,Humza,Mississauga
+302,2022-09-29,Lori,1637,430-757-6823,Double Patty Burger,17,4,31.96,7.99,Debit Card,Dawood,Markham
+301,2022-10-01,Gilbert,2621,423.852.7986,Garden Salad,14,3,14.97,4.99,Debit Card,Altaf,Scarborough
+300,2022-10-03,Nicholas,9552,458.637.7849,Regular Combo,4,5,20,4,Cash,Charlie,Mississauga
+299,2022-10-04,Kenneth,5484,1-774-829-0358,Double Patty Burger,17,2,15.98,7.99,Debit Card,Humza,Toronto
+298,2022-10-07,Carolyn,9994,(635) 854-2115,Double Patty Burger,17,3,23.97,7.99,Debit Card,Bob,Mississauga
+297,2022-10-08,Elizabeth,3388,1 (894) 070-0123,Cheese Fries,7,2,6.98,3.49,Credit Card,Grace,Scarborough
+296,2022-10-10,Timothy,1621,1-539-360-6030,Soda (Regular),9,2,2.98,1.49,Cash,Eva,Scarborough
+295,2022-10-11,Sergio,7060,398.120.7909,Small Combo,3,3,9,3,Cash,Dawood,Mississauga
+294,2022-10-11,Cory,8033,(529) 937-8904 x901,Garden Salad,14,4,19.96,4.99,Credit Card,Humza,Toronto
+293,2022-10-14,John,8745,1-387-748-3852,Garden Salad,14,2,9.98,4.99,Cash,Eva,Scarborough
+292,2022-10-14,Robert,1754,467-035-4372 x391,Veggie Burger,18,2,11.98,5.99,Credit Card,Eva,Toronto
+291,2022-10-16,Maria,8318,802.448.4050,Ice Cream,15,3,11.97,3.99,Credit Card,Humza,Toronto
+290,2022-10-17,Cheryl,4313,1 (553) 559-7207,Chicken Tenders (4 pc),13,1,5.99,5.99,Cash,Altaf,Scarborough
+289,2022-10-23,Andrea,1353,863-285-0989 x192,Ice Cream,15,4,15.96,3.99,Credit Card,Frank,Scarborough
+288,2022-10-24,Mark,4959,747-848-2464,Veggie Burger,18,3,17.97,5.99,Credit Card,Bob,Scarborough
+287,2022-10-27,Shannon,2125,721 446 6741,Classic Burger,1,1,5.99,5.99,Credit Card,Frank,Toronto
+286,2022-10-28,Jennifer,3902,966-690-6511 x301,Small Combo,3,1,3,3,Debit Card,Altaf,Markham
+285,2022-11-02,Justin,9679,+1 (508) 947-9661,Veggie Burger,18,4,23.96,5.99,Cash,Grace,Mississauga
+284,2022-11-03,Sarah,3900,(630) 630-6510,Choco Cookie,16,2,2.98,1.49,Cash,Grace,Toronto
+283,2022-11-05,Adam,3744,669 730 3795,Chicken Tenders (4 pc),13,1,5.99,5.99,Credit Card,Altaf,Scarborough
+282,2022-11-06,David,9448,+1 (776) 108-2589,Garden Salad,14,2,9.98,4.99,Cash,Frank,Mississauga
+281,2022-11-07,Susan,5546,277.203.1443,Double Patty Burger,17,2,15.98,7.99,Cash,Grace,Mississauga
+280,2022-11-07,Troy,4360,+1 (173) 986-2936,Chili Cheese Fries,8,3,13.47,4.49,Credit Card,Frank,Markham
+279,2022-11-10,Christina,7616,803.557.7719,Chili Cheese Fries,8,3,13.47,4.49,Credit Card,Humza,Mississauga
+278,2022-11-17,David,9448,1-557-339-0823,Cheese Fries,7,2,6.98,3.49,Cash,Charlie,Scarborough
+277,2022-11-19,Margaret,5040,669-719-4452,Regular Combo,4,1,4,4,Cash,Humza,Mississauga
+276,2022-11-20,Justin,9679,(219) 978-5514 x022,Chicken Burger,2,4,25.96,6.49,Credit Card,Frank,Mississauga
+275,2022-11-21,Samuel,8179,185.610.1178,Classic Burger,1,2,11.98,5.99,Credit Card,Altaf,Mississauga
+274,2022-11-21,James,3216,(194) 056-8124,Bottled Water,11,2,2,1,Cash,Frank,Toronto
+273,2022-11-21,Lauren,1936,(884) 858-8862,Choco Cookie,16,1,1.49,1.49,Debit Card,Altaf,Toronto
+272,2022-11-22,Thomas,2308,1 (768) 284-0089,Chicken Tenders (4 pc),13,5,29.95,5.99,Debit Card,Eva,Scarborough
+271,2022-11-22,Hunter,3767,160.429.2167,Regular Fries,6,2,4.98,2.49,Credit Card,Eva,Mississauga
+270,2022-11-22,Jennifer,3902,1-290-171-6476,Cheese Fries,7,5,17.45,3.49,Cash,Dawood,Markham
+269,2022-11-23,Jay,4094,1-877-131-2543,Chili Cheese Fries,8,2,8.98,4.49,Debit Card,Humza,Toronto
+268,2022-11-24,Joseph,3078,174-629-0304,Garden Salad,14,3,14.97,4.99,Cash,Frank,Mississauga
+267,2022-11-27,Leslie,4439,(883) 776-8903 x857,Soda (Large),10,4,7.96,1.99,Debit Card,Frank,Scarborough
+266,2022-11-28,Rachael,8191,+1 (124) 919-2371,Cheese Fries,7,4,13.96,3.49,Credit Card,Charlie,Markham
+265,2022-11-28,Samuel,8179,+1 (541) 690-8607,Small Combo,3,4,12,3,Debit Card,Bob,Mississauga
+264,2022-11-28,Jessica,9089,(555) 819-0837 x581,Ice Cream,15,4,15.96,3.99,Credit Card,Eva,Mississauga
+263,2022-11-30,Sarah,3900,494 944 2391,Chicken Burger,2,3,19.47,6.49,Cash,Frank,Scarborough
+262,2022-12-02,Stacey,2668,102-475-9331 x930,Onion Rings,12,3,11.97,3.99,Cash,Grace,Toronto
+261,2022-12-02,Jeffrey,4056,+1 (365) 896-5075,Soda (Regular),9,4,5.96,1.49,Credit Card,Grace,Markham
+260,2022-12-04,Wayne,7952,403 286 1590,Onion Rings,12,1,3.99,3.99,Debit Card,Dawood,Markham
+259,2022-12-07,Eric,1710,253 831 1705,Classic Burger,1,5,29.95,5.99,Cash,Bob,Scarborough
+258,2022-12-08,Alexandria,1355,163 908 5212,Chili Cheese Fries,8,2,8.98,4.49,Debit Card,Charlie,Scarborough
+257,2022-12-10,William,8661,937.562.3930,Onion Rings,12,4,15.96,3.99,Debit Card,Grace,Scarborough
+256,2022-12-10,Paige,7436,786 391 1267,Choco Cookie,16,5,7.45,1.49,Cash,Altaf,Scarborough
+255,2022-12-13,Brooke,9673,(365) 227-7994,Onion Rings,12,4,15.96,3.99,Cash,Dawood,Scarborough
+254,2022-12-14,Robin,7501,(456) 587-3544,Bottled Water,11,5,5,1,Cash,Charlie,Mississauga
+253,2022-12-15,Mark,4959,414-731-3273,Chili Cheese Fries,8,4,17.96,4.49,Credit Card,Humza,Scarborough
+252,2022-12-16,Gregory,6791,396-967-3525 x337,Small Combo,3,1,3,3,Cash,Frank,Markham
+251,2022-12-16,Ashley,2543,1-398-230-5270,Veggie Burger,18,2,11.98,5.99,Credit Card,Eva,Markham
+250,2022-12-17,Michael,8283,(261) 049-5564,Chicken Burger,2,2,12.98,6.49,Credit Card,Frank,Toronto
+249,2022-12-17,Shannon,2125,(892) 873-2878,Regular Combo,4,2,8,4,Credit Card,Dawood,Scarborough
+248,2022-12-18,Laura,5997,(397) 473-7405 x338,Large Combo,5,1,5,5,Credit Card,Altaf,Scarborough
+247,2022-12-19,James,3216,743 063 2520,Bottled Water,11,5,5,1,Credit Card,Bob,Mississauga
+246,2022-12-20,Cindy,5328,232-500-0894,Chicken Burger,2,3,19.47,6.49,Cash,Altaf,Markham
+245,2022-12-20,Ashley,2543,+1 (636) 793-0653,Chili Cheese Fries,8,1,4.49,4.49,Cash,Altaf,Markham
+244,2022-12-21,Allison,7471,132-459-4793,Chicken Tenders (4 pc),13,2,11.98,5.99,Cash,Humza,Mississauga
+243,2022-12-22,Peter,5570,(459) 762-5959 x077,Chicken Burger,2,4,25.96,6.49,Debit Card,Altaf,Mississauga
+242,2022-12-23,Michael,8283,960 855 8909,Double Patty Burger,17,5,39.95,7.99,Cash,Charlie,Toronto
+241,2022-12-24,Kimberly,1078,(770) 641-8269,Classic Burger,1,2,11.98,5.99,Credit Card,Altaf,Toronto
+240,2023-01-02,Toni,9378,1 (886) 384-2665,Bottled Water,11,5,5,1,Cash,Humza,Toronto
+239,2023-01-02,Jessica,9089,384-121-9939,Regular Fries,6,4,9.96,2.49,Credit Card,Dawood,Markham
+238,2023-01-03,Kristen,1273,201-518-5295 x145,Ice Cream,15,5,19.95,3.99,Cash,Bob,Mississauga
+237,2023-01-07,Molly,8383,148-621-8992 x544,Large Combo,5,4,20,5,Cash,Bob,Markham
+236,2023-01-09,Morgan,4739,(935) 794-6392 x884,Regular Fries,6,3,7.47,2.49,Cash,Charlie,Mississauga
+235,2023-01-12,Jill,2778,1 (647) 392-8384,Bottled Water,11,1,1,1,Cash,Altaf,Mississauga
+234,2023-01-14,Kristy,4974,363-756-0707,Regular Combo,4,3,12,4,Cash,Frank,Scarborough
+233,2023-01-15,Patricia,2451,+1 (633) 010-1978,Ice Cream,15,4,15.96,3.99,Debit Card,Bob,Markham
+232,2023-01-17,Norma,1064,(635) 609-4473 x784,Chicken Burger,2,3,19.47,6.49,Debit Card,Humza,Mississauga
+231,2023-01-17,Ashley,2543,(626) 378-8915,Veggie Burger,18,3,17.97,5.99,Debit Card,Charlie,Toronto
+230,2023-01-23,Chad,1002,457.452.1361,Garden Salad,14,1,4.99,4.99,Debit Card,Altaf,Toronto
+229,2023-01-23,Heather,2467,(632) 783-5296,Classic Burger,1,4,23.96,5.99,Cash,Frank,Mississauga
+228,2023-01-25,Lisa,5528,989 137 7625,Chicken Burger,2,5,32.45,6.49,Credit Card,Frank,Markham
+227,2023-01-26,Lisa,5528,746.810.0516,Soda (Large),10,1,1.99,1.99,Debit Card,Altaf,Toronto
+226,2023-01-28,Jeffrey,4056,797 357 0752,Chicken Burger,2,2,12.98,6.49,Cash,Humza,Mississauga
+225,2023-01-29,Robert,1754,(985) 252-7192,Chili Cheese Fries,8,1,4.49,4.49,Credit Card,Grace,Scarborough
+224,2023-02-02,Kevin,4959,1 (474) 105-2700,Ice Cream,15,2,7.98,3.99,Debit Card,Altaf,Markham
+223,2023-02-04,Jennifer,3902,+1 (584) 468-7867,Soda (Regular),9,3,4.47,1.49,Credit Card,Frank,Markham
+222,2023-02-04,Michael,8283,526 015 0247,Chicken Burger,2,2,12.98,6.49,Cash,Grace,Mississauga
+221,2023-02-08,Maria,8318,1-938-022-9187,Choco Cookie,16,4,5.96,1.49,Credit Card,Frank,Markham
+220,2023-02-09,Angela,2029,699 598 3031,Double Patty Burger,17,2,15.98,7.99,Credit Card,Eva,Markham
+219,2023-02-09,Nicole,5152,+1 (226) 196-9357,Bottled Water,11,4,4,1,Cash,Charlie,Mississauga
+218,2023-02-11,Robert,1754,592-484-1477,Small Combo,3,4,12,3,Cash,Frank,Mississauga
+217,2023-02-11,Marvin,2447,112-215-1511,Soda (Regular),9,3,4.47,1.49,Cash,Humza,Mississauga
+216,2023-02-12,Brittany,8856,(873) 583-3655 x830,Small Combo,3,4,12,3,Credit Card,Humza,Scarborough
+215,2023-02-12,Jason,3332,+1 (748) 493-3836,Cheese Fries,7,2,6.98,3.49,Credit Card,Frank,Mississauga
+214,2023-02-13,William,8661,290 703 2342,Soda (Regular),9,3,4.47,1.49,Cash,Grace,Scarborough
+213,2023-02-14,Trevor,8925,1-901-605-2840,Regular Combo,4,5,20,4,Debit Card,Grace,Markham
+212,2023-02-16,Elizabeth,3388,1 (808) 099-1674,Chicken Tenders (4 pc),13,1,5.99,5.99,Cash,Frank,Mississauga
+211,2023-02-18,Kathy,7091,(505) 983-9956,Garden Salad,14,5,24.95,4.99,Credit Card,Bob,Scarborough
+210,2023-02-20,Audrey,2543,1 (963) 213-2906,Classic Burger,1,1,5.99,5.99,Credit Card,Altaf,Scarborough
+209,2023-02-20,Marc,9679,1-748-917-6409,Bottled Water,11,1,1,1,Debit Card,Frank,Scarborough
+208,2023-02-23,Tracy,2787,1 (100) 788-9342,Chili Cheese Fries,8,4,17.96,4.49,Credit Card,Grace,Markham
+207,2023-02-23,Douglas,1983,704 861 9224,Large Combo,5,4,20,5,Credit Card,Altaf,Toronto
+206,2023-02-24,Allison,7471,+1 (838) 295-6040,Large Combo,5,2,10,5,Credit Card,Frank,Mississauga
+205,2023-02-26,Cheryl,4313,965.693.0699,Large Combo,5,4,20,5,Credit Card,Humza,Toronto
+204,2023-02-27,Eric,1710,752-338-2495,Soda (Regular),9,1,1.49,1.49,Credit Card,Charlie,Toronto
+203,2023-02-28,Heather,2467,958.847.2277,Regular Fries,6,4,9.96,2.49,Debit Card,Dawood,Mississauga
+202,2023-02-28,Howard,3158,290.377.4086,Soda (Large),10,4,7.96,1.99,Cash,Grace,Scarborough
+201,2023-03-03,Audrey,2543,265-153-4890,Soda (Large),10,2,3.98,1.99,Debit Card,Humza,Markham
+200,2023-03-04,Roberto,7480,995.407.4834,Veggie Burger,18,2,11.98,5.99,Cash,Grace,Mississauga
+199,2023-03-05,Ryan,7539,+1 (566) 913-1412,Classic Burger,1,4,23.96,5.99,Cash,Bob,Toronto
+198,2023-03-06,Sherry,6540,(374) 803-0364,Chicken Burger,2,2,12.98,6.49,Cash,Bob,Toronto
+197,2023-03-10,Mark,4959,1 (880) 263-3043,Classic Burger,1,3,17.97,5.99,Credit Card,Eva,Toronto
+196,2023-03-11,Joseph,3078,+1 (941) 845-3918,Soda (Regular),9,2,2.98,1.49,Debit Card,Altaf,Mississauga
+195,2023-03-11,Matthew,1615,1 (999) 108-2974,Veggie Burger,18,3,17.97,5.99,Debit Card,Altaf,Scarborough
+194,2023-03-11,Tanya,8355,+1 (200) 702-2056,Regular Combo,4,5,20,4,Cash,Humza,Markham
+193,2023-03-13,Eric,1710,1-606-466-1433,Double Patty Burger,17,5,39.95,7.99,Cash,Altaf,Scarborough
+192,2023-03-13,Raymond,6966,1 (531) 730-9475,Soda (Large),10,3,5.97,1.99,Debit Card,Bob,Markham
+191,2023-03-14,Tiffany,9312,497 886 4964,Soda (Large),10,4,7.96,1.99,Credit Card,Eva,Mississauga
+190,2023-03-16,Lorraine,9891,+1 (219) 720-3905,Bottled Water,11,2,2,1,Credit Card,Eva,Markham
+189,2023-03-16,Jade,6107,683-088-0809 x918,Onion Rings,12,5,19.95,3.99,Credit Card,Dawood,Scarborough
+188,2023-03-18,Joel,7180,+1 (174) 617-3877,Ice Cream,15,2,7.98,3.99,Credit Card,Eva,Mississauga
+187,2023-03-19,Erika,2757,795.623.2956,Ice Cream,15,1,3.99,3.99,Debit Card,Altaf,Scarborough
+186,2023-03-19,Kyle,5614,830.488.0172,Choco Cookie,16,3,4.47,1.49,Debit Card,Grace,Scarborough
+185,2023-03-21,Teresa,7458,1-196-522-1760,Large Combo,5,2,10,5,Credit Card,Eva,Scarborough
+184,2023-03-22,Amanda,3536,921 685 7490,Soda (Regular),9,3,4.47,1.49,Cash,Humza,Mississauga
+183,2023-03-24,Jason,3332,187.474.3268,Choco Cookie,16,5,7.45,1.49,Cash,Eva,Toronto
+182,2023-03-26,Richard,4934,(619) 663-6101 x389,Double Patty Burger,17,5,39.95,7.99,Cash,Bob,Mississauga
+181,2023-03-29,Michael,8283,694.879.9390,Chicken Burger,2,2,12.98,6.49,Credit Card,Grace,Toronto
+180,2023-03-29,David,9448,1 (403) 459-5010,Soda (Large),10,5,9.95,1.99,Cash,Frank,Mississauga
+179,2023-03-31,Brandon,9047,+1 (804) 034-6719,Regular Fries,6,1,2.49,2.49,Credit Card,Frank,Mississauga
+178,2023-04-01,Joshua,5936,(250) 233-5923,Regular Combo,4,4,16,4,Debit Card,Altaf,Toronto
+177,2023-04-01,Karen,2818,509 188 8898,Classic Burger,1,4,23.96,5.99,Debit Card,Humza,Toronto
+176,2023-04-01,William,8661,289-398-8926 x297,Classic Burger,1,4,23.96,5.99,Credit Card,Altaf,Toronto
+175,2023-04-02,Lori,1637,(670) 691-0010,Chicken Burger,2,3,19.47,6.49,Credit Card,Grace,Toronto
+174,2023-04-05,Laura,5997,1 (214) 406-9647,Large Combo,5,2,10,5,Cash,Dawood,Mississauga
+173,2023-04-09,Amy,2862,801-754-9832 x676,Chicken Burger,2,2,12.98,6.49,Cash,Charlie,Markham
+172,2023-04-10,Howard,3158,138 752 9849,Onion Rings,12,4,15.96,3.99,Credit Card,Bob,Mississauga
+171,2023-04-11,Clarence,7056,1 (969) 005-7069,Regular Combo,4,3,12,4,Debit Card,Grace,Mississauga
+170,2023-04-11,Lisa,5528,1 (111) 991-0559,Choco Cookie,16,4,5.96,1.49,Debit Card,Charlie,Scarborough
+169,2023-04-11,Danielle,5231,+1 (126) 241-1338,Classic Burger,1,3,17.97,5.99,Cash,Charlie,Toronto
+168,2023-04-13,Marissa,3065,+1 (813) 907-9314,Soda (Regular),9,1,1.49,1.49,Credit Card,Altaf,Toronto
+167,2023-04-13,Tiffany,9312,623 355 7600,Soda (Regular),9,1,1.49,1.49,Cash,Grace,Toronto
+166,2023-04-15,Cindy,5328,1 (444) 332-8687,Bottled Water,11,3,3,1,Debit Card,Frank,Mississauga
+165,2023-04-16,Katherine,7091,(481) 668-8466,Bottled Water,11,4,4,1,Debit Card,Dawood,Scarborough
+164,2023-04-21,Nicole,5152,1-762-716-8343,Garden Salad,14,5,24.95,4.99,Debit Card,Dawood,Toronto
+163,2023-04-22,Roy,1560,422.411.2560,Bottled Water,11,3,3,1,Debit Card,Frank,Scarborough
+162,2023-04-22,James,3216,1-248-647-1423,Double Patty Burger,17,1,7.99,7.99,Debit Card,Grace,Markham
+161,2023-05-03,Alyssa,2293,953-442-1564,Chicken Tenders (4 pc),13,4,23.96,5.99,Debit Card,Bob,Toronto
+160,2023-05-03,Kenneth,5484,990-762-5951,Soda (Regular),9,2,2.98,1.49,Debit Card,Bob,Toronto
+159,2023-05-05,Brianna,3460,1 (887) 907-6149,Garden Salad,14,5,24.95,4.99,Debit Card,Dawood,Toronto
+158,2023-05-06,Teresa,7458,545-245-9683,Classic Burger,1,4,23.96,5.99,Credit Card,Grace,Scarborough
+157,2023-05-07,Julia,6267,892-852-2333,Chicken Burger,2,3,19.47,6.49,Credit Card,Altaf,Markham
+156,2023-05-08,Ashley,2543,469 007 8537,Cheese Fries,7,2,6.98,3.49,Debit Card,Altaf,Mississauga
+155,2023-05-09,Melissa,7924,888-938-9680 x363,Large Combo,5,4,20,5,Cash,Frank,Toronto
+154,2023-05-11,Chelsea,9469,(811) 000-2531 x703,Small Combo,3,4,12,3,Credit Card,Altaf,Toronto
+153,2023-05-11,Jill,2778,684 495 8393,Double Patty Burger,17,1,7.99,7.99,Credit Card,Grace,Mississauga
+152,2023-05-12,Jacob,4162,(849) 557-1861 x739,Regular Combo,4,2,8,4,Debit Card,Grace,Markham
+151,2023-05-13,Jessica,9089,+1 (639) 057-3695,Chicken Tenders (4 pc),13,2,11.98,5.99,Debit Card,Charlie,Mississauga
+150,2023-05-15,Krystal,6690,(901) 702-1402,Garden Salad,14,1,4.99,4.99,Cash,Humza,Mississauga
+149,2023-05-16,Lisa,5528,1-770-760-3876,Regular Fries,6,1,2.49,2.49,Debit Card,Bob,Scarborough
+148,2023-05-17,Chad,1002,(115) 788-0403 x986,Cheese Fries,7,3,10.47,3.49,Credit Card,Charlie,Scarborough
+147,2023-05-18,Elijah,6533,988.380.5034,Garden Salad,14,1,4.99,4.99,Cash,Dawood,Markham
+146,2023-05-19,Rick,6819,+1 (136) 454-6816,Cheese Fries,7,1,3.49,3.49,Debit Card,Eva,Toronto
+145,2023-05-22,Amanda,3536,320-895-3062 x998,Soda (Large),10,2,3.98,1.99,Credit Card,Altaf,Toronto
+144,2023-05-23,Seth,7256,785-927-1767 x350,Ice Cream,15,1,3.99,3.99,Debit Card,Grace,Mississauga
+143,2023-05-27,Peter,5570,(479) 227-0372 x849,Bottled Water,11,2,2,1,Debit Card,Frank,Mississauga
+142,2023-05-27,Julian,8804,(688) 462-7713 x747,Cheese Fries,7,4,13.96,3.49,Cash,Charlie,Mississauga
+141,2023-05-28,Alisha,8789,1 (207) 281-9382,Cheese Fries,7,3,10.47,3.49,Debit Card,Grace,Markham
+140,2023-05-29,Donna,9949,677 874 2182,Chicken Tenders (4 pc),13,4,23.96,5.99,Debit Card,Altaf,Scarborough
+139,2023-05-30,William,8661,231-845-3938,Regular Combo,4,1,4,4,Cash,Dawood,Mississauga
+138,2023-06-02,Christina,7616,(910) 893-0691 x716,Onion Rings,12,4,15.96,3.99,Credit Card,Humza,Toronto
+137,2023-06-02,Sara,6154,1-337-386-4638,Soda (Regular),9,3,4.47,1.49,Credit Card,Altaf,Mississauga
+136,2023-06-03,Dawn,4904,+1 (415) 846-1107,Regular Fries,6,2,4.98,2.49,Debit Card,Eva,Mississauga
+135,2023-06-04,Philip,2853,711.821.0309,Bottled Water,11,4,4,1,Debit Card,Humza,Mississauga
+134,2023-06-04,John,8745,925.504.4894,Large Combo,5,2,10,5,Debit Card,Eva,Markham
+133,2023-06-08,Jessica,9089,(225) 637-2147,Onion Rings,12,3,11.97,3.99,Cash,Frank,Mississauga
+132,2023-06-08,Matthew,1615,1-276-098-5540,Classic Burger,1,5,29.95,5.99,Cash,Eva,Toronto
+131,2023-06-09,Michael,8283,+1 (187) 684-5869,Onion Rings,12,4,15.96,3.99,Debit Card,Bob,Scarborough
+130,2023-06-10,Stephanie,1152,1 (289) 494-6991,Regular Fries,6,5,12.45,2.49,Credit Card,Grace,Toronto
+129,2023-06-10,Michele,7459,1 (646) 841-7616,Soda (Regular),9,1,1.49,1.49,Debit Card,Humza,Markham
+128,2023-06-11,Alicia,3907,973.862.3524,Ice Cream,15,5,19.95,3.99,Credit Card,Dawood,Scarborough
+127,2023-06-12,Charles,6550,839.980.9127,Chicken Burger,2,3,19.47,6.49,Debit Card,Bob,Scarborough
+126,2023-06-12,Patricia,2451,+1 (235) 884-6654,Regular Combo,4,1,4,4,Credit Card,Bob,Toronto
+125,2023-06-13,Derek,7325,+1 (802) 998-4535,Small Combo,3,1,3,3,Debit Card,Altaf,Toronto
+124,2023-06-18,Andrew,4364,252-880-5135,Ice Cream,15,1,3.99,3.99,Cash,Charlie,Mississauga
+123,2023-06-19,Monica,5974,776 137 7230,Double Patty Burger,17,5,39.95,7.99,Credit Card,Humza,Markham
+122,2023-06-24,Christina,7616,1 (717) 339-8218,Soda (Regular),9,3,4.47,1.49,Debit Card,Grace,Markham
+121,2023-06-26,Lawrence,9518,756.823.5555,Double Patty Burger,17,2,15.98,7.99,Debit Card,Altaf,Scarborough
+120,2023-06-27,Richard,4934,420 281 2829,Large Combo,5,3,15,5,Credit Card,Frank,Mississauga
+119,2023-06-28,Michelle,5057,1 (439) 340-2383,Choco Cookie,16,3,4.47,1.49,Cash,Dawood,Mississauga
+118,2023-06-29,Laura,5997,1-189-680-8848,Double Patty Burger,17,1,7.99,7.99,Debit Card,Eva,Toronto
+117,2023-06-30,Richard,4934,(310) 457-6772 x281,Chicken Burger,2,2,12.98,6.49,Credit Card,Grace,Scarborough
+116,2023-07-01,Sandra,8486,+1 (925) 328-2173,Large Combo,5,2,10,5,Cash,Frank,Mississauga
+115,2023-07-01,Tanya,8355,(503) 529-9003 x285,Garden Salad,14,3,14.97,4.99,Credit Card,Frank,Mississauga
+114,2023-07-02,Dawn,4904,(595) 274-0023 x022,Chili Cheese Fries,8,3,13.47,4.49,Debit Card,Dawood,Toronto
+113,2023-07-02,Caitlin,1349,144.115.5496,Double Patty Burger,17,3,23.97,7.99,Credit Card,Humza,Toronto
+112,2023-07-03,Jennifer,3902,(640) 189-9108,Chili Cheese Fries,8,3,13.47,4.49,Cash,Humza,Toronto
+111,2023-07-04,Mark,4959,582 473 6959,Soda (Regular),9,1,1.49,1.49,Credit Card,Charlie,Mississauga
+110,2023-07-08,Christina,7616,(705) 841-3802,Classic Burger,1,2,11.98,5.99,Cash,Bob,Markham
+109,2023-07-11,Michele,7459,244 871 2071,Regular Fries,6,4,9.96,2.49,Cash,Charlie,Markham
+108,2023-07-12,Thomas,2308,1 (774) 292-2845,Chili Cheese Fries,8,2,8.98,4.49,Cash,Frank,Scarborough
+107,2023-07-12,Jack,4042,+1 (510) 200-9494,Onion Rings,12,3,11.97,3.99,Credit Card,Charlie,Toronto
+106,2023-07-12,Alison,6759,+1 (517) 103-6907,Chicken Tenders (4 pc),13,1,5.99,5.99,Debit Card,Humza,Toronto
+105,2023-07-14,Bradley,7691,1 (540) 403-6223,Ice Cream,15,2,7.98,3.99,Credit Card,Dawood,Scarborough
+104,2023-07-14,Megan,3149,1 (358) 986-6168,Small Combo,3,4,12,3,Credit Card,Eva,Markham
+103,2023-07-16,Cheryl,4313,763-733-2950 x149,Regular Fries,6,3,7.47,2.49,Credit Card,Charlie,Mississauga
+102,2023-07-17,Lisa,5528,(651) 703-7610,Regular Combo,4,5,20,4,Credit Card,Humza,Scarborough
+101,2023-07-17,Daniel,4420,+1 (738) 198-1472,Choco Cookie,16,2,2.98,1.49,Credit Card,Grace,Scarborough
+100,2023-07-19,Reginald,1548,532-750-7753,Regular Fries,6,3,7.47,2.49,Cash,Humza,Toronto
+99,2023-07-19,Erin,8311,451.134.9927,Ice Cream,15,1,3.99,3.99,Credit Card,Grace,Mississauga
+98,2023-07-20,Sabrina,6240,(538) 453-7602 x388,Choco Cookie,16,2,2.98,1.49,Debit Card,Dawood,Markham
+97,2023-07-21,Betty,4737,802-894-1743 x284,Classic Burger,1,2,11.98,5.99,Debit Card,Charlie,Markham
+96,2023-07-23,Austin,6721,1-701-843-0742,Large Combo,5,3,15,5,Cash,Charlie,Markham
+95,2023-07-25,Michael,8283,(302) 464-3320,Regular Combo,4,4,16,4,Cash,Grace,Scarborough
+94,2023-07-26,Rebecca,1981,+1 (620) 706-3290,Bottled Water,11,5,5,1,Credit Card,Grace,Scarborough
+93,2023-07-27,Jonathan,7185,160-150-0332,Onion Rings,12,5,19.95,3.99,Credit Card,Bob,Markham
+92,2023-07-28,Larry,1932,451-001-7026 x192,Garden Salad,14,4,19.96,4.99,Cash,Humza,Scarborough
+91,2023-08-01,Edward,9402,765.873.3167,Large Combo,5,4,20,5,Credit Card,Charlie,Scarborough
+90,2023-08-01,Hannah,5718,940.678.8545,Large Combo,5,2,10,5,Credit Card,Charlie,Scarborough
+89,2023-08-04,Charles,6550,618-644-3454,Bottled Water,11,5,5,1,Debit Card,Frank,Scarborough
+88,2023-08-05,Denise,6487,(677) 291-8829,Bottled Water,11,1,1,1,Cash,Bob,Scarborough
+87,2023-08-05,Julie,7444,281 869 5502,Classic Burger,1,3,17.97,5.99,Cash,Charlie,Mississauga
+86,2023-08-07,Jerry,9526,(118) 595-1650,Garden Salad,14,1,4.99,4.99,Credit Card,Grace,Scarborough
+85,2023-08-08,James,3216,+1 (685) 185-6587,Regular Fries,6,4,9.96,2.49,Debit Card,Charlie,Mississauga
+84,2023-08-08,Justin,9679,274.923.5269,Bottled Water,11,4,4,1,Credit Card,Eva,Markham
+83,2023-08-08,Megan,3149,(385) 638-8827,Veggie Burger,18,2,11.98,5.99,Credit Card,Bob,Markham
+82,2023-08-14,Nancy,7214,709.472.4825,Soda (Large),10,1,1.99,1.99,Cash,Bob,Toronto
+81,2023-08-14,Brandi,5536,1-663-944-3563,Bottled Water,11,5,5,1,Debit Card,Humza,Toronto
+80,2023-08-14,Cindy,5328,149.537.8545,Veggie Burger,18,3,17.97,5.99,Credit Card,Grace,Markham
+79,2023-08-15,Daniel,4420,729-366-5742 x283,Bottled Water,11,2,2,1,Debit Card,Dawood,Toronto
+78,2023-08-17,Katherine,7091,502-204-5580,Chili Cheese Fries,8,2,8.98,4.49,Cash,Altaf,Mississauga
+77,2023-08-17,Cody,9156,553 355 1468,Classic Burger,1,1,5.99,5.99,Credit Card,Frank,Mississauga
+76,2023-08-19,Michelle,5057,284-086-9278 x641,Choco Cookie,16,4,5.96,1.49,Debit Card,Charlie,Toronto
+75,2023-08-20,Travis,4800,1-571-378-5344,Double Patty Burger,17,1,7.99,7.99,Credit Card,Frank,Mississauga
+74,2023-08-23,Nathan,8859,(695) 679-4955,Small Combo,3,4,12,3,Debit Card,Charlie,Scarborough
+73,2023-08-23,Jonathan,7185,+1 (118) 768-2733,Chicken Burger,2,2,12.98,6.49,Cash,Humza,Mississauga
+72,2023-08-24,Gordon,7706,692-510-7119 x639,Regular Fries,6,5,12.45,2.49,Cash,Humza,Markham
+71,2023-08-25,Joy,9668,910.345.3243,Regular Fries,6,1,2.49,2.49,Credit Card,Grace,Mississauga
+70,2023-08-31,Sabrina,6240,1-727-563-8076,Small Combo,3,5,15,3,Debit Card,Frank,Mississauga
+69,2023-08-31,Brittany,8856,997 554 6828,Chili Cheese Fries,8,3,13.47,4.49,Cash,Eva,Scarborough
+68,2023-09-01,David,9448,107 073 4798,Ice Cream,15,3,11.97,3.99,Credit Card,Altaf,Scarborough
+67,2023-09-01,Bruce,9042,164.231.4409,Soda (Regular),9,5,7.45,1.49,Credit Card,Frank,Scarborough
+66,2023-09-02,Julia,6267,767-620-9445 x715,Ice Cream,15,5,19.95,3.99,Cash,Eva,Markham
+65,2023-09-02,Joseph,3078,(194) 347-9567 x951,Garden Salad,14,1,4.99,4.99,Cash,Bob,Toronto
+64,2023-09-04,Albert,5538,1-900-613-0014,Garden Salad,14,5,24.95,4.99,Debit Card,Eva,Scarborough
+63,2023-09-11,Mary,1953,378-157-3768,Soda (Regular),9,2,2.98,1.49,Debit Card,Humza,Scarborough
+62,2023-09-11,Allison,7471,1 (725) 470-9743,Choco Cookie,16,1,1.49,1.49,Credit Card,Frank,Mississauga
+61,2023-09-12,Gerald,9769,768-707-4059 x153,Veggie Burger,18,1,5.99,5.99,Credit Card,Bob,Markham
+60,2023-09-14,Julie,7444,+1 (233) 818-8290,Soda (Regular),9,4,5.96,1.49,Credit Card,Bob,Markham
+59,2023-09-15,Manuel,1197,+1 (320) 867-2381,Small Combo,3,5,15,3,Credit Card,Eva,Mississauga
+58,2023-09-16,Eduardo,3399,961-803-1708 x152,Chili Cheese Fries,8,1,4.49,4.49,Debit Card,Altaf,Markham
+57,2023-09-17,Robert,1754,1-422-821-0115,Classic Burger,1,2,11.98,5.99,Debit Card,Charlie,Mississauga
+56,2023-09-18,Robert,1754,(551) 517-4497,Onion Rings,12,5,19.95,3.99,Credit Card,Eva,Markham
+55,2023-09-20,Miguel,1742,1-455-595-0360,Onion Rings,12,2,7.98,3.99,Credit Card,Bob,Scarborough
+54,2023-09-20,Leon,9394,(397) 505-8234 x406,Choco Cookie,16,3,4.47,1.49,Cash,Humza,Scarborough
+53,2023-09-22,Emily,5603,(622) 293-8039 x997,Onion Rings,12,1,3.99,3.99,Debit Card,Grace,Scarborough
+52,2023-09-25,David,9448,1-653-584-3033,Cheese Fries,7,1,3.49,3.49,Cash,Altaf,Markham
+51,2023-09-26,Tammy,2278,1 (235) 111-2237,Cheese Fries,7,3,10.47,3.49,Cash,Grace,Toronto
+50,2023-09-30,Laura,5997,194.875.9963,Choco Cookie,16,4,5.96,1.49,Cash,Frank,Scarborough
+49,2023-10-03,Tiffany,9312,+1 (179) 483-7646,Chili Cheese Fries,8,2,8.98,4.49,Credit Card,Charlie,Toronto
+48,2023-10-06,Dawn,4904,+1 (829) 506-4115,Veggie Burger,18,2,11.98,5.99,Credit Card,Altaf,Scarborough
+47,2023-10-06,Heather,2467,+1 (292) 680-1515,Garden Salad,14,2,9.98,4.99,Cash,Grace,Scarborough
+46,2023-10-07,Kenneth,5484,995.142.7986,Double Patty Burger,17,5,39.95,7.99,Cash,Grace,Scarborough
+45,2023-10-07,Aaron,8327,153-717-7738,Large Combo,5,3,15,5,Credit Card,Dawood,Mississauga
+44,2023-10-10,Catherine,2543,(478) 069-4427,Chicken Burger,2,2,12.98,6.49,Debit Card,Frank,Toronto
+43,2023-10-11,Emily,5603,1-242-687-3286,Double Patty Burger,17,3,23.97,7.99,Debit Card,Altaf,Markham
+42,2023-10-15,Anna,2421,597.772.0149,Garden Salad,14,3,14.97,4.99,Debit Card,Charlie,Toronto
+41,2023-10-18,Rachael,8191,1 (635) 786-8442,Choco Cookie,16,5,7.45,1.49,Debit Card,Eva,Toronto
+40,2023-10-20,Andre,6194,268 095 5719,Bottled Water,11,3,3,1,Debit Card,Charlie,Mississauga
+39,2023-10-21,Jason,3332,+1 (351) 934-3124,Double Patty Burger,17,3,23.97,7.99,Cash,Dawood,Markham
+38,2023-10-21,Tracy,2787,1 (134) 179-7843,Chicken Burger,2,5,32.45,6.49,Cash,Frank,Markham
+37,2023-10-24,Jeremy,2980,542-769-4139,Chicken Tenders (4 pc),13,2,11.98,5.99,Credit Card,Grace,Mississauga
+36,2023-10-26,Michelle,5057,293-640-4549,Cheese Fries,7,5,17.45,3.49,Credit Card,Altaf,Scarborough
+35,2023-10-27,Jenny,2700,416.653.0378,Ice Cream,15,1,3.99,3.99,Debit Card,Grace,Toronto
+34,2023-10-31,Edward,9402,1 (203) 193-1407,Chicken Tenders (4 pc),13,1,5.99,5.99,Credit Card,Charlie,Scarborough
+33,2023-11-01,Charles,6550,(794) 540-2089 x114,Small Combo,3,4,12,3,Cash,Grace,Scarborough
+32,2023-11-03,Marcus,2514,135-009-0825,Veggie Burger,18,2,11.98,5.99,Cash,Frank,Mississauga
+31,2023-11-04,Allen,2536,835 590 3719,Small Combo,3,3,9,3,Cash,Charlie,Markham
+30,2023-11-06,Pamela,5277,(928) 173-9472,Onion Rings,12,3,11.97,3.99,Debit Card,Dawood,Toronto
+29,2023-11-07,Jennifer,3902,746 265 2167,Chicken Tenders (4 pc),13,5,29.95,5.99,Cash,Grace,Toronto
+28,2023-11-07,Diana,3854,968-800-2613 x681,Chicken Burger,2,1,6.49,6.49,Debit Card,Frank,Mississauga
+27,2023-11-08,Alfred,1004,490-158-6947,Chicken Tenders (4 pc),13,3,17.97,5.99,Debit Card,Charlie,Toronto
+26,2023-11-11,Sharon,7896,1 (217) 007-1351,Double Patty Burger,17,1,7.99,7.99,Debit Card,Frank,Toronto
+25,2023-11-11,Belinda,8175,+1 (781) 152-9995,Garden Salad,14,4,19.96,4.99,Credit Card,Eva,Markham
+24,2023-11-16,Joshua,5936,(992) 481-0573 x843,Double Patty Burger,17,2,15.98,7.99,Debit Card,Eva,Toronto
+23,2023-11-17,Nicole,5152,(698) 416-3726 x083,Soda (Large),10,4,7.96,1.99,Debit Card,Altaf,Scarborough
+22,2023-11-17,Andrew,4364,+1 (768) 767-7639,Bottled Water,11,1,1,1,Credit Card,Eva,Toronto
+21,2023-11-18,William,8661,489-199-7076 x572,Chicken Burger,2,2,12.98,6.49,Cash,Dawood,Toronto
+20,2023-11-19,April,4106,828.346.7582,Large Combo,5,1,5,5,Credit Card,Charlie,Markham
+19,2023-11-22,Kimberly,1078,(700) 191-8039 x349,Soda (Regular),9,2,2.98,1.49,Debit Card,Altaf,Scarborough
+18,2023-11-23,Rebecca,1981,1-299-752-9945,Classic Burger,1,5,29.95,5.99,Cash,Frank,Toronto
+17,2023-11-24,Mathew,5282,1 (588) 582-0162,Regular Combo,4,5,20,4,Debit Card,Eva,Scarborough
+16,2023-11-25,Gregory,6791,(199) 884-2912,Garden Salad,14,4,19.96,4.99,Credit Card,Dawood,Scarborough
+15,2023-11-26,Vicki,2530,818-558-2563,Soda (Regular),9,4,5.96,1.49,Credit Card,Frank,Markham
+14,2023-11-27,Anthony,9423,975-411-1988,Chili Cheese Fries,8,5,22.45,4.49,Credit Card,Humza,Mississauga
+13,2023-11-27,John,8745,540 004 7645,Regular Fries,6,5,12.45,2.49,Debit Card,Eva,Markham
+12,2023-11-28,Michelle,5057,(318) 759-0156,Ice Cream,15,4,15.96,3.99,Cash,Frank,Scarborough
+11,2023-12-01,Cindy,5328,1 (198) 354-4711,Chili Cheese Fries,8,5,22.45,4.49,Debit Card,Charlie,Toronto
+10,2023-12-02,Morgan,4739,1-569-956-0803,Soda (Large),10,1,1.99,1.99,Debit Card,Dawood,Scarborough
+9,2023-12-03,Beth,8612,(946) 190-3724 x375,Regular Combo,4,3,12,4,Debit Card,Bob,Scarborough
+8,2023-12-05,Alexandra,8789,290 961 7417,Classic Burger,1,2,11.98,5.99,Credit Card,Bob,Mississauga
+7,2023-12-07,Brenda,9819,179.411.0176,Double Patty Burger,17,1,7.99,7.99,Cash,Altaf,Scarborough
+6,2023-12-14,Robert,1754,+1 (132) 006-1194,Soda (Large),10,5,9.95,1.99,Debit Card,Dawood,Scarborough
+5,2023-12-20,Megan,3149,1 (143) 141-1528,Veggie Burger,18,3,17.97,5.99,Credit Card,Dawood,Mississauga
+4,2023-12-22,Christian,3525,435-143-0782,Bottled Water,11,5,5,1,Cash,Altaf,Scarborough
+3,2023-12-23,Kelly,9701,(382) 239-8249 x284,Onion Rings,12,5,19.95,3.99,Credit Card,Eva,Scarborough
+2,2023-12-24,Annette,8923,(645) 030-7339 x857,Cheese Fries,7,4,13.96,3.49,Cash,Altaf,Toronto
+1,2023-12-25,Luis,4651,518.013.4352,Soda (Large),10,1,1.99,1.99,Cash,Eva,Toronto
